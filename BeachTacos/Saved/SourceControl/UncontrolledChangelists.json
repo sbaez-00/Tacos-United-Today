@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/P1Games/Projects/BeachTacos/Content/M_Ocean.uasset",
+				"D:/P1Games/Projects/BeachTacos/Content/Map_Tutorial.umap",
+				"D:/P1Games/Projects/BeachTacos/Content/M_Sand.uasset",
+				"D:/P1Games/Projects/BeachTacos/Content/PlaceholderMaterials/M_Sand.uasset",
+				"D:/P1Games/Projects/BeachTacos/Content/PlaceholderMaterials/M_Ocean.uasset",
+				"D:/P1Games/Projects/BeachTacos/Content/PlaceholderMaterials/M_Counter.uasset",
+				"D:/P1Games/Projects/BeachTacos/Content/BP_Ingredient.uasset",
+				"D:/P1Games/Projects/BeachTacos/Content/BP_IngredientContainer.uasset"
+			]
+		}
+	]
+}
