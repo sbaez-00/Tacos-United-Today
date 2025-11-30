@@ -6756,3 +6756,1464 @@ Sampler Limit: 32
 [2025.11.30-07.07.17:640][356]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.30-07.07.17:640][356]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.30-07.07.17:640][356]AssetCheck: /Game/Map_Tutorial Validating asset
+[2025.11.30-07.10.51:190][712]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4708.147949
+[2025.11.30-07.10.52:190][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-07.10.52:190][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4708.815430, Update Interval: 333.796814
+[2025.11.30-07.12.31:639][231]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.30-07.12.31:650][231]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.30-07.12.31:663][232]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.30-07.12.38:345][  8]LogContentBrowser: Attempting asset rename: NewFolder -> Instances
+[2025.11.30-07.12.38:346][  8]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.30-07.13.12:559][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.30-07.13.12:560][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Instances/D_TUTposter] ([1] browsable assets)...
+[2025.11.30-07.13.12:560][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Instances/D_TUTposter]
+[2025.11.30-07.13.12:569][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Instances/D_TUTposter
+[2025.11.30-07.13.12:569][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/D_TUTposterE880B5374A528385F112E7B2019CC05B.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Instances/D_TUTposter.uasset'
+[2025.11.30-07.13.12:572][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/D_TUTposter] ([1] browsable assets)...
+[2025.11.30-07.13.12:572][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/D_TUTposter]
+[2025.11.30-07.13.12:580][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/D_TUTposter
+[2025.11.30-07.13.12:581][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/D_TUTposterD81896104ED9010F94E1E5AAEC48F5BD.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Materials/D_TUTposter.uasset'
+[2025.11.30-07.13.12:583][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Instances/M_ceiling_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.12:583][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Instances/M_ceiling_Inst]
+[2025.11.30-07.13.12:590][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Instances/M_ceiling_Inst
+[2025.11.30-07.13.12:590][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_ceiling_Inst946DE528467AAE4B5D2AAB93288BEF9E.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Instances/M_ceiling_Inst.uasset'
+[2025.11.30-07.13.12:591][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/M_ceiling_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.12:591][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_ceiling_Inst]
+[2025.11.30-07.13.12:598][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_ceiling_Inst
+[2025.11.30-07.13.12:598][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_ceiling_Inst54D3D21D4FEF0134A7721FA06F487A0B.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Materials/M_ceiling_Inst.uasset'
+[2025.11.30-07.13.12:600][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Instances/M_counter_base_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.12:600][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Instances/M_counter_base_Inst]
+[2025.11.30-07.13.12:608][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Instances/M_counter_base_Inst
+[2025.11.30-07.13.12:608][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_counter_base_InstCC67CADD4D173EE83C254C9F1500183A.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Instances/M_counter_base_Inst.uasset'
+[2025.11.30-07.13.12:609][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/M_counter_base_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.12:609][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_counter_base_Inst]
+[2025.11.30-07.13.12:617][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_counter_base_Inst
+[2025.11.30-07.13.12:617][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_counter_base_Inst62AB30BB47D5FDBCCBFCD8B11FCFD735.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Materials/M_counter_base_Inst.uasset'
+[2025.11.30-07.13.12:620][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Instances/M_lightbulb_base_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.12:620][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Instances/M_lightbulb_base_Inst]
+[2025.11.30-07.13.12:626][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Instances/M_lightbulb_base_Inst
+[2025.11.30-07.13.12:626][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_lightbulb_base_Inst8644A9D446D0EEABFE4206A8F237C438.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Instances/M_lightbulb_base_Inst.uasset'
+[2025.11.30-07.13.12:627][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/M_lightbulb_base_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.12:627][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_lightbulb_base_Inst]
+[2025.11.30-07.13.12:635][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_lightbulb_base_Inst
+[2025.11.30-07.13.12:636][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_lightbulb_base_InstD4A6CDC24C11A507C802B780D9C8A765.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Materials/M_lightbulb_base_Inst.uasset'
+[2025.11.30-07.13.12:638][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Instances/M_Metal_base_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.12:638][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Instances/M_Metal_base_Inst]
+[2025.11.30-07.13.12:645][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Instances/M_Metal_base_Inst
+[2025.11.30-07.13.12:645][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_Metal_base_InstDC46C4E3494F59E52482209366344719.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Instances/M_Metal_base_Inst.uasset'
+[2025.11.30-07.13.12:645][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/M_Metal_base_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.12:645][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_Metal_base_Inst]
+[2025.11.30-07.13.12:652][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_Metal_base_Inst
+[2025.11.30-07.13.12:655][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_Metal_base_Inst9F9EC22F435F4BDA6EA9C79CE81FC9FA.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Materials/M_Metal_base_Inst.uasset'
+[2025.11.30-07.13.12:657][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Instances/M_tanwall_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.12:657][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Instances/M_tanwall_Inst]
+[2025.11.30-07.13.12:663][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Instances/M_tanwall_Inst
+[2025.11.30-07.13.12:663][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_tanwall_InstD4583BF44E973DA61FC43AB9CD5269CA.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Instances/M_tanwall_Inst.uasset'
+[2025.11.30-07.13.12:665][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/M_tanwall_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.12:665][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_tanwall_Inst]
+[2025.11.30-07.13.12:671][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_tanwall_Inst
+[2025.11.30-07.13.12:673][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_tanwall_InstCD8074084EF7138BE9CFBC911DF24A3D.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Materials/M_tanwall_Inst.uasset'
+[2025.11.30-07.13.12:675][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Instances/M_wall_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.12:675][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Instances/M_wall_Inst]
+[2025.11.30-07.13.12:685][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Instances/M_wall_Inst
+[2025.11.30-07.13.12:685][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_wall_Inst3EBCF8CE476EBB0BF534EFADE3DE1796.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Instances/M_wall_Inst.uasset'
+[2025.11.30-07.13.12:686][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/M_wall_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.12:686][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_wall_Inst]
+[2025.11.30-07.13.12:693][ 25]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_wall_Inst
+[2025.11.30-07.13.12:694][ 25]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_wall_Inst76E97034490942E5E080858D1969ACA9.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Materials/M_wall_Inst.uasset'
+[2025.11.30-07.13.12:697][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.601 ms (total: 3.21 sec)
+[2025.11.30-07.13.12:743][ 25]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.30-07.13.12:743][ 25]LogContentValidation: Display: Starting to validate 14 assets
+[2025.11.30-07.13.12:743][ 25]LogContentValidation: Enabled validators:
+[2025.11.30-07.13.12:743][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.30-07.13.12:743][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.30-07.13.12:743][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.30-07.13.12:743][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.30-07.13.12:743][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.30-07.13.12:743][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Instances/D_TUTposter Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Materials/D_TUTposter Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Instances/M_ceiling_Inst Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Materials/M_ceiling_Inst Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Instances/M_counter_base_Inst Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Materials/M_counter_base_Inst Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Instances/M_lightbulb_base_Inst Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Materials/M_lightbulb_base_Inst Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Instances/M_Metal_base_Inst Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Materials/M_Metal_base_Inst Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Instances/M_tanwall_Inst Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Materials/M_tanwall_Inst Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Instances/M_wall_Inst Validating asset
+[2025.11.30-07.13.12:743][ 25]AssetCheck: /Game/LevelPrototyping/Materials/M_wall_Inst Validating asset
+[2025.11.30-07.13.12:763][ 25]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.30-07.13.49:858][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.30-07.13.49:858][614]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Instances/M_StylizedWood_base_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.49:858][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Instances/M_StylizedWood_base_Inst]
+[2025.11.30-07.13.49:868][614]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Instances/M_StylizedWood_base_Inst
+[2025.11.30-07.13.49:868][614]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_StylizedWood_base_Inst5794447740B4DC9DA33B738DA820F400.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/LevelPrototyping/Instances/M_StylizedWood_base_Inst.uasset'
+[2025.11.30-07.13.49:869][614]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StylizedWoodMaterial/Materials/M_StylizedWood_base_Inst] ([1] browsable assets)...
+[2025.11.30-07.13.49:869][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/StylizedWoodMaterial/Materials/M_StylizedWood_base_Inst]
+[2025.11.30-07.13.49:877][614]LogSavePackage: Moving output files for package: /Game/StylizedWoodMaterial/Materials/M_StylizedWood_base_Inst
+[2025.11.30-07.13.49:878][614]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/M_StylizedWood_base_InstC9A50CF64CF146459A1C49A4DC2EC8F1.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/StylizedWoodMaterial/Materials/M_StylizedWood_base_Inst.uasset'
+[2025.11.30-07.13.49:880][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.166 ms (total: 3.23 sec)
+[2025.11.30-07.13.49:907][614]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.30-07.13.49:907][614]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.30-07.13.49:907][614]LogContentValidation: Enabled validators:
+[2025.11.30-07.13.49:907][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.30-07.13.49:907][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.30-07.13.49:907][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.30-07.13.49:907][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.30-07.13.49:907][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.30-07.13.49:907][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.30-07.13.49:907][614]AssetCheck: /Game/LevelPrototyping/Instances/M_StylizedWood_base_Inst Validating asset
+[2025.11.30-07.13.49:907][614]AssetCheck: /Game/StylizedWoodMaterial/Materials/M_StylizedWood_base_Inst Validating asset
+[2025.11.30-07.13.49:918][614]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.30-07.14.53:589][417]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.30-07.14.53:598][417]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.30-07.14.53:613][418]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.30-07.14.55:583][621]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2025.11.30-07.14.55:584][621]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.30-07.15.23:915][749]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.11.30-07.15.23:925][749]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.11.30-07.15.23:940][749]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.11.30-07.15.23:976][751]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.11.30-07.15.36:528][953]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Main_Menu
+[2025.11.30-07.15.36:537][953]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.11.30-07.15.45:359][116]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Main_Menu.Main_Menu
+[2025.11.30-07.15.45:359][116]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.11.30-07.15.45:370][116]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.30-07.15.45:380][116]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.11.30-07.15.45:545][116]LogStreaming: Display: FlushAsyncLoading(370): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-07.15.46:675][116]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.30-07.17.09:193][314]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5086.145020
+[2025.11.30-07.17.10:195][317]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-07.17.10:195][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5086.814941, Update Interval: 324.463623
+[2025.11.30-07.17.16:974][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.11.30-07.17.16:977][337]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map_Tutorial' took 0.084
+[2025.11.30-07.17.16:977][337]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Main_Menu] ([2] browsable assets)...
+[2025.11.30-07.17.16:981][337]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Main_Menu.Main_Menu]
+[2025.11.30-07.17.16:981][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Main_Menu]
+[2025.11.30-07.17.16:995][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Main_Menu_Auto1
+[2025.11.30-07.17.16:995][337]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Main_Menu_Auto1DD1361DA435CA78C347D1A93368D64D0.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/UI/Main_Menu_Auto1.uasset'
+[2025.11.30-07.17.16:997][337]LogFileHelpers: Auto-saving content packages took 0.020
+[2025.11.30-07.23.07:022][469]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5443.979980
+[2025.11.30-07.23.07:141][477]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-07.23.07:141][477]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5444.083496, Update Interval: 319.296234
+[2025.11.30-07.23.29:370][722]LogEditorTransaction: Undo Move Widget (Render Transform)
+[2025.11.30-07.24.17:712][304]LogEditorTransaction: Undo Add Widget
+[2025.11.30-07.25.06:813][ 41]LogSlate: Took 0.009650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.11.30-07.29.11:623][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5808.558594
+[2025.11.30-07.29.12:050][424]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-07.29.12:050][424]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5808.971680, Update Interval: 349.632263
+[2025.11.30-07.32.18:541][904]LogEditorTransaction: Undo Edit Left
+[2025.11.30-07.32.58:990][601]LogEditorTransaction: Undo Move Widget (Render Transform)
+[2025.11.30-07.33.01:831][755]LogEditorTransaction: Undo Move Widget (Render Transform)
+[2025.11.30-07.33.04:235][898]LogEditorTransaction: Undo Move Widget (Render Transform)
+[2025.11.30-07.33.08:225][133]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:225][133]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:228][133]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:313][134]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:322][134]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:413][135]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:497][136]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:506][136]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:597][137]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:601][137]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:604][137]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:605][137]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:610][137]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:695][138]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:799][139]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.08:884][140]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.11.30-07.33.47:650][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.11.30-07.33.47:652][145]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map_Tutorial' took 0.032
+[2025.11.30-07.33.47:652][145]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Main_Menu] ([2] browsable assets)...
+[2025.11.30-07.33.47:655][145]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Main_Menu.Main_Menu]
+[2025.11.30-07.33.47:655][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Main_Menu]
+[2025.11.30-07.33.47:669][145]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Main_Menu_Auto2
+[2025.11.30-07.33.47:669][145]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Main_Menu_Auto2AD2985AD42AF56073CDB76B79B0AA025.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/UI/Main_Menu_Auto2.uasset'
+[2025.11.30-07.33.47:670][145]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.11.30-07.35.38:787][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6195.712891
+[2025.11.30-07.35.39:313][ 22]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-07.35.39:313][ 22]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6196.226562, Update Interval: 300.997955
+[2025.11.30-07.38.36:233][500]LogEditorTransaction: Undo Move Anchor
+[2025.11.30-07.38.41:211][785]LogEditorTransaction: Undo Move Anchor
+[2025.11.30-07.38.42:094][813]LogEditorTransaction: Undo Move Widgets
+[2025.11.30-07.41.18:840][282]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6535.792969
+[2025.11.30-07.41.18:975][291]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-07.41.18:975][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6535.914551, Update Interval: 329.729919
+[2025.11.30-07.45.06:427][298]LogEditorTransaction: Undo Set Vector Property
+[2025.11.30-07.46.27:998][680]LogEditorTransaction: Undo Set Vector Property
+[2025.11.30-07.47.37:596][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6914.528809
+[2025.11.30-07.47.37:721][347]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-07.47.37:723][347]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6914.641113, Update Interval: 356.533691
+[2025.11.30-07.48.12:362][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.11.30-07.48.12:364][689]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map_Tutorial' took 0.031
+[2025.11.30-07.48.12:364][689]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Main_Menu] ([2] browsable assets)...
+[2025.11.30-07.48.12:365][689]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Main_Menu.Main_Menu]
+[2025.11.30-07.48.12:365][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Main_Menu]
+[2025.11.30-07.48.12:378][689]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Main_Menu_Auto3
+[2025.11.30-07.48.12:378][689]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Main_Menu_Auto354466F7A4046A38517A7D682E232309C.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/UI/Main_Menu_Auto3.uasset'
+[2025.11.30-07.48.12:379][689]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.11.30-07.48.18:554][ 95]LogStreaming: Display: FlushAsyncLoading(565): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-07.49.21:964][249]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.30-07.49.29:717][756]LogEditorTransaction: Undo Edit Specified Color
+[2025.11.30-07.49.35:575][ 85]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.30-07.52.12:081][832]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.30-07.52.34:679][ 95]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.36:018][153]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.36:667][181]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.37:290][208]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.37:904][235]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.38:419][255]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.38:690][256]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.38:958][257]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.39:210][258]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.39:431][259]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.39:652][260]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.39:871][261]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.40:101][263]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.40:342][266]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.40:557][267]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.40:794][269]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.41:026][271]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.41:297][276]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.41:542][279]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.41:756][280]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.41:987][282]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.42:240][284]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.42:560][286]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.42:826][287]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.43:090][288]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.43:310][289]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.43:543][291]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.44:178][318]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.44:733][340]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.45:197][356]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.45:740][377]LogEditorTransaction: Undo Nudge Widget
+[2025.11.30-07.52.46:257][396]LogEditorTransaction: Undo Duplicate selection
+[2025.11.30-07.52.48:594][541]LogEditorTransaction: Undo Remove Widget
+[2025.11.30-07.52.49:121][562]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.11.30-07.52.49:533][575]LogEditorTransaction: Undo Edit Justification
+[2025.11.30-07.53.43:997][ 40]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.11.30-07.53.44:002][ 40]LogSlate: Took 0.002882 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.11.30-07.53.57:131][872]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.30-07.54.19:752][249]LogDerivedDataCache: C:/Users/sarah/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.30-07.54.30:848][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7327.792969
+[2025.11.30-07.54.30:988][936]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-07.54.30:988][936]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7327.919434, Update Interval: 346.823334
+[2025.11.30-07.56.39:551][350]LogEditorTransaction: Undo Set Vector Property
+[2025.11.30-07.59.27:156][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.11.30-07.59.27:157][567]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map_Tutorial' took 0.035
+[2025.11.30-07.59.27:159][567]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Main_Menu] ([2] browsable assets)...
+[2025.11.30-07.59.27:161][567]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Main_Menu.Main_Menu]
+[2025.11.30-07.59.27:161][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Main_Menu]
+[2025.11.30-07.59.27:175][567]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Main_Menu_Auto4
+[2025.11.30-07.59.27:175][567]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Main_Menu_Auto423FE057441CED7EA56AB39BB49AE95CD.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/UI/Main_Menu_Auto4.uasset'
+[2025.11.30-07.59.27:175][567]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.11.30-08.00.37:005][ 20]LogStreaming: Display: FlushAsyncLoading(566): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.00.37:021][ 20]LogInterchangeEngine: [Pending] Importing
+[2025.11.30-08.00.37:021][ 20]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sarah/Downloads/best_beaches_us_southeast-scaled.jpg]
+[2025.11.30-08.00.37:176][ 22]LogStreaming: Display: FlushAsyncLoading(567): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.00.37:178][ 22]LogInterchangeImport: JPEG file [C:/Users/sarah/Downloads/best_beaches_us_southeast-scaled.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.11.30-08.00.37:253][ 23]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.11.30-08.00.37:273][ 24]LogTexture: Display: Building textures: /Game/PlaceholderMaterials/best_beaches_us_southeast-scaled.best_beaches_us_southeast-scaled (BGRA8, 2560x1706 x1x1x1) (Required Memory Estimate: 150.941391 MB), EncodeSpeed: Fast
+[2025.11.30-08.00.37:522][ 25]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sarah/Downloads/best_beaches_us_southeast-scaled.jpg]
+[2025.11.30-08.00.37:529][ 25]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.30-08.00.37:529][ 25]LogInterchangeEngine: [Success] Import Done
+[2025.11.30-08.00.48:658][719]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7705.605957
+[2025.11.30-08.00.48:770][727]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-08.00.48:770][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7705.703613, Update Interval: 355.237274
+[2025.11.30-08.03.57:330][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.11.30-08.04.10:755][504]LogSlate: Window 'Save Content' being destroyed
+[2025.11.30-08.04.10:782][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.30-08.04.10:852][504]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Main_Menu] ([2] browsable assets)...
+[2025.11.30-08.04.10:853][504]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Main_Menu.Main_Menu]
+[2025.11.30-08.04.10:853][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Main_Menu]
+[2025.11.30-08.04.10:853][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu" FILE="../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/UI/Main_Menu.uasset" SILENT=true
+[2025.11.30-08.04.10:868][504]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu
+[2025.11.30-08.04.10:868][504]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Main_Menu866B0D4C49B809DC90D7F6A0AD157775.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/UI/Main_Menu.uasset'
+[2025.11.30-08.04.10:873][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlaceholderMaterials/best_beaches_us_southeast-scaled] ([1] browsable assets)...
+[2025.11.30-08.04.10:875][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PlaceholderMaterials/best_beaches_us_southeast-scaled.best_beaches_us_southeast-scaled]
+[2025.11.30-08.04.10:875][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlaceholderMaterials/best_beaches_us_southeast-scaled]
+[2025.11.30-08.04.10:885][504]LogSavePackage: Moving output files for package: /Game/PlaceholderMaterials/best_beaches_us_southeast-scaled
+[2025.11.30-08.04.10:885][504]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/best_beaches_us_southeast-scaled5A924BCE4A41E6FCF23FF6ABAD66B914.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/PlaceholderMaterials/best_beaches_us_southeast-scaled.uasset'
+[2025.11.30-08.04.10:899][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.871 ms (total: 3.35 sec)
+[2025.11.30-08.04.10:952][504]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.30-08.04.10:952][504]LogContentValidation: Enabled validators:
+[2025.11.30-08.04.10:952][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.30-08.04.10:952][504]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.30-08.04.10:952][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.30-08.04.10:952][504]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.30-08.04.10:952][504]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.30-08.04.10:952][504]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.30-08.04.10:952][504]AssetCheck: /Game/UI/Main_Menu Validating asset
+[2025.11.30-08.04.10:952][504]AssetCheck: /Game/PlaceholderMaterials/best_beaches_us_southeast-scaled Validating asset
+[2025.11.30-08.04.10:979][504]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.30-08.04.20:340][499]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.30-08.04.20:359][499]LogPlayLevel: [PlayLevel] Compiling Main_Menu before play...
+[2025.11.30-08.04.20:423][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.30-08.04.20:426][499]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2025.11.30-08.04.20:470][499]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Tutorial
+[2025.11.30-08.04.20:476][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006766s)
+[2025.11.30-08.04.20:476][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Tutorial.Map_Tutorial to /Game/UEDPIE_0_Map_Tutorial.Map_Tutorial (0.006806s)
+[2025.11.30-08.04.20:500][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.30-08.04.20:502][499]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Tutorial
+[2025.11.30-08.04.20:503][499]LogPlayLevel: PIE: World Init took: (0.001478s)
+[2025.11.30-08.04.20:503][499]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.11.30-08.04.20:503][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.30-08.04.20:503][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.30-08.04.20:503][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.30-08.04.20:503][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.30-08.04.20:503][499]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.30-08.04.20:503][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.30-08.04.20:503][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.30-08.04.20:503][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.30-08.04.20:503][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.30-08.04.20:503][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.30-08.04.20:503][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.30-08.04.20:505][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.30-08.04.20:535][499]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 Gaming Headset)
+[2025.11.30-08.04.20:535][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.30-08.04.20:535][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.30-08.04.20:535][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.30-08.04.20:535][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.11.30-08.04.20:536][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.11.30-08.04.20:537][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.11.30-08.04.20:537][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.11.30-08.04.20:537][499]LogInit: FAudioDevice initialized with ID 10.
+[2025.11.30-08.04.20:537][499]LogAudio: Display: Audio Device (ID: 10) registered with world 'Map_Tutorial'.
+[2025.11.30-08.04.20:537][499]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.11.30-08.04.20:541][499]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.30-08.04.20:545][499]LogWorld: Bringing World /Game/UEDPIE_0_Map_Tutorial.Map_Tutorial up for play (max tick rate 0) at 2025.11.30-00.04.20
+[2025.11.30-08.04.20:545][499]LogWorld: Bringing up level for play took: 0.003268
+[2025.11.30-08.04.20:547][499]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.11.30-08.04.20:552][499]PIE: Server logged in
+[2025.11.30-08.04.20:554][499]PIE: Play in editor total start time 0.196 seconds.
+[2025.11.30-08.04.20:623][500]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.04.30:820][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.04.30:820][617]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map_Tutorial
+[2025.11.30-08.04.30:820][617]LogWorld: UWorld::CleanupWorld for Map_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.04.30:820][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.04.30:823][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.30-08.04.30:829][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.04.30:854][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.04.30:856][617]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.11.30-08.04.30:856][617]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.11.30-08.04.30:858][617]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.11.30-08.04.30:863][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.11.30-08.04.30:949][618]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.11.30-08.04.37:930][328]LogStreaming: Display: FlushAsyncLoading(568): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.04.44:820][328]LogSlate: Window 'New Level' being destroyed
+[2025.11.30-08.04.44:910][328]LogWorld: UWorld::CleanupWorld for Map_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.04.44:910][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.04.44:940][328]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.30-08.04.44:945][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.11.30-08.04.44:950][328]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.11.30-08.04.44:952][328]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.11.30-08.04.45:006][329]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.04.46:036][329]LogD3D12RHI: Compiled LumenReflectionHardwareRayTracingRGS for RTPSO in 1029.69 ms.
+[2025.11.30-08.04.46:159][329]LogD3D12RHI: Creating RTPSO with 68 shaders (0 cached, 68 new) took 1153.40 ms. Compile time 1029.81 ms, link time 123.55 ms.
+[2025.11.30-08.04.48:148][329]LogD3D12RHI: Creating RTPSO with 9 shaders (0 cached, 9 new) took 2570.73 ms. Compile time 415.77 ms, link time 2154.93 ms.
+[2025.11.30-08.05.16:537][102]LogSlate: Window 'Save Level As' being destroyed
+[2025.11.30-08.05.16:697][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.30-08.05.16:712][102]LogSavePackage: Moving output files for package: /Game/mainmenumap
+[2025.11.30-08.05.16:712][102]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/mainmenumap4545C08B455BBC710256BAB9A21344F2.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/mainmenumap.umap'
+[2025.11.30-08.05.16:756][102]LogFileHelpers: Saving map 'mainmenumap' took 0.207
+[2025.11.30-08.05.16:756][102]Cmd: MAP LOAD FILE="../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/mainmenumap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.11.30-08.05.16:821][102]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.05.16:821][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.05.16:852][102]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.30-08.05.16:857][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2025.11.30-08.05.16:858][102]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.05.16:860][102]LogAudio: Display: Audio Device (ID: 1) registered with world 'mainmenumap'.
+[2025.11.30-08.05.16:860][102]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.05.16:876][102]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.30-08.05.16:909][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2025.11.30-08.05.16:942][102]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.30-08.05.16:942][102]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2025.11.30-08.05.17:002][102]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.30-08.05.17:002][102]LogContentValidation: Enabled validators:
+[2025.11.30-08.05.17:002][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.30-08.05.17:002][102]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.30-08.05.17:002][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.30-08.05.17:002][102]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.30-08.05.17:002][102]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.30-08.05.17:002][102]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.30-08.05.17:002][102]AssetCheck: /Game/mainmenumap Validating asset
+[2025.11.30-08.05.17:027][102]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.30-08.05.17:034][103]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.06.19:346][905]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.30-08.06.19:356][905]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.30-08.06.19:364][905]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.30-08.06.19:385][906]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.30-08.06.36:563][110]LogContentBrowser: Attempting asset rename: NewBlueprint -> menugamemode
+[2025.11.30-08.06.36:569][110]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.30-08.07.03:089][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.30-08.07.03:243][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.11.30-08.07.03:257][166]LogSavePackage: Moving output files for package: /Game/mainmenumap
+[2025.11.30-08.07.03:259][166]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/mainmenumap9199463E4D13002DC0A2F8A4F37542C2.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/mainmenumap.umap'
+[2025.11.30-08.07.03:288][166]LogFileHelpers: Saving map 'mainmenumap' took 0.136
+[2025.11.30-08.07.03:296][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 207.691 ms (total: 3.55 sec)
+[2025.11.30-08.07.03:370][166]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.30-08.07.03:370][166]LogContentValidation: Enabled validators:
+[2025.11.30-08.07.03:370][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.30-08.07.03:370][166]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.30-08.07.03:370][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.30-08.07.03:370][166]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.30-08.07.03:370][166]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.30-08.07.03:370][166]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.30-08.07.03:370][166]AssetCheck: /Game/mainmenumap Validating asset
+[2025.11.30-08.07.17:739][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.11.30-08.07.19:512][828]LogSlate: Window 'Save Content' being destroyed
+[2025.11.30-08.07.19:532][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.30-08.07.19:588][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/menugamemode] ([2] browsable assets)...
+[2025.11.30-08.07.19:588][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/menugamemode]
+[2025.11.30-08.07.19:588][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/menugamemode" FILE="../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/UI/menugamemode.uasset" SILENT=true
+[2025.11.30-08.07.19:599][828]LogSavePackage: Moving output files for package: /Game/UI/menugamemode
+[2025.11.30-08.07.19:599][828]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/menugamemode63BC84084CEA0341B8AB06AAE730D8BF.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/UI/menugamemode.uasset'
+[2025.11.30-08.07.19:617][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.266 ms (total: 3.64 sec)
+[2025.11.30-08.07.19:669][828]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.30-08.07.19:669][828]LogContentValidation: Enabled validators:
+[2025.11.30-08.07.19:669][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.30-08.07.19:669][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.30-08.07.19:669][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.30-08.07.19:669][828]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.30-08.07.19:669][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.30-08.07.19:669][828]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.30-08.07.19:669][828]AssetCheck: /Game/UI/menugamemode Validating asset
+[2025.11.30-08.07.19:695][828]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.30-08.07.30:320][ 42]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.11.30-08.07.32:442][265]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/mainmenumap.mainmenumap:PersistentLevel.mainmenumap
+[2025.11.30-08.07.32:444][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.11.30-08.07.40:689][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8117.674805
+[2025.11.30-08.07.41:688][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-08.07.41:689][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8118.342773, Update Interval: 337.037872
+[2025.11.30-08.08.43:201][869]LogBlueprint: Error: [AssetLog] C:\Users\sarah\OneDrive\Documents\GitHub\Tacos-United-Today\BeachTacos\Content\mainmenumap.umap: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2025.11.30-08.08.43:203][869]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.08.43:247][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.11.30-08.09.00:385][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.30-08.09.12:951][180]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.30-08.09.12:965][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.30-08.09.12:995][180]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.09.12:995][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001155s)
+[2025.11.30-08.09.12:995][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mainmenumap.mainmenumap to /Game/UEDPIE_0_mainmenumap.mainmenumap (0.001201s)
+[2025.11.30-08.09.13:019][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.30-08.09.13:023][180]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.09.13:024][180]LogPlayLevel: PIE: World Init took: (0.001536s)
+[2025.11.30-08.09.13:025][180]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.11.30-08.09.13:025][180]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.30-08.09.13:025][180]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.30-08.09.13:025][180]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.30-08.09.13:025][180]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.30-08.09.13:025][180]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.30-08.09.13:025][180]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.30-08.09.13:025][180]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.30-08.09.13:025][180]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.30-08.09.13:025][180]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.30-08.09.13:025][180]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.30-08.09.13:025][180]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.30-08.09.13:027][180]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.30-08.09.13:063][180]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 Gaming Headset)
+[2025.11.30-08.09.13:063][180]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.30-08.09.13:063][180]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.30-08.09.13:063][180]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.30-08.09.13:064][180]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.11.30-08.09.13:064][180]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.11.30-08.09.13:067][180]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.11.30-08.09.13:067][180]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.11.30-08.09.13:067][180]LogInit: FAudioDevice initialized with ID 11.
+[2025.11.30-08.09.13:067][180]LogAudio: Display: Audio Device (ID: 11) registered with world 'mainmenumap'.
+[2025.11.30-08.09.13:067][180]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.11.30-08.09.13:072][180]LogLoad: Game class is 'menugamemode_C'
+[2025.11.30-08.09.13:072][180]LogWorld: Bringing World /Game/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2025.11.30-00.09.13
+[2025.11.30-08.09.13:072][180]LogWorld: Bringing up level for play took: 0.000552
+[2025.11.30-08.09.13:075][180]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.11.30-08.09.13:078][180]PIE: Server logged in
+[2025.11.30-08.09.13:080][180]PIE: Play in editor total start time 0.116 seconds.
+[2025.11.30-08.09.13:138][181]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.09.29:685][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.09.29:685][589]LogWorld: BeginTearingDown for /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.09.29:685][589]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.09.29:685][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.09.29:685][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.30-08.09.29:692][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.09.29:715][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.09.29:715][589]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.11.30-08.09.29:715][589]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.11.30-08.09.29:717][589]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.11.30-08.09.29:723][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.11.30-08.09.29:753][590]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.11.30-08.11.31:804][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.11.30-08.11.37:150][279]LogSlate: Window 'Save Content' being destroyed
+[2025.11.30-08.11.37:160][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.30-08.11.37:295][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.30-08.11.37:309][279]LogSavePackage: Moving output files for package: /Game/mainmenumap
+[2025.11.30-08.11.37:309][279]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/mainmenumapED89F80542B3B226659AF4AD5ADC9DA8.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/mainmenumap.umap'
+[2025.11.30-08.11.37:340][279]LogFileHelpers: Saving map 'mainmenumap' took 0.119
+[2025.11.30-08.11.37:340][279]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Main_Menu] ([2] browsable assets)...
+[2025.11.30-08.11.37:344][279]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Main_Menu.Main_Menu]
+[2025.11.30-08.11.37:344][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Main_Menu]
+[2025.11.30-08.11.37:344][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu" FILE="../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/UI/Main_Menu.uasset" SILENT=true
+[2025.11.30-08.11.37:358][279]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu
+[2025.11.30-08.11.37:359][279]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Main_MenuB9962C3B452BB839647640B3DD433E1B.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/UI/Main_Menu.uasset'
+[2025.11.30-08.11.37:420][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 261.135 ms (total: 3.90 sec)
+[2025.11.30-08.11.37:422][279]LogStreaming: Display: FlushAsyncLoading(572): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.11.37:427][279]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.11.30-08.11.37:428][279]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.11.30-08.11.37:428][279]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.30-08.11.37:428][279]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.30-08.11.37:480][279]LogStaticMesh: Display: Building static mesh SM_Cube (Required Memory Estimate: 0.026302 MB)...
+[2025.11.30-08.11.37:480][279]LogStaticMesh: Display: Building static mesh SM_QuarterCylinder (Required Memory Estimate: 1.183525 MB)...
+[2025.11.30-08.11.37:480][279]LogStaticMesh: Display: Building static mesh SM_Ramp (Required Memory Estimate: 0.020414 MB)...
+[2025.11.30-08.11.37:480][279]LogStaticMesh: Display: Building static mesh SM_Cylinder (Required Memory Estimate: 4.310633 MB)...
+[2025.11.30-08.11.37:483][279]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 2
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Leaves [0.00s]
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Reduce [0.00s]
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Adjacency [0.00s], tris: 8, UVs 2
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Leaves [0.00s]
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Reduce [0.00s]
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Fallback [0.00s], num tris: 8
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Fallback [0.00s], num tris: 8
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2025.11.30-08.11.37:484][279]LogStaticMesh: ConstrainClusters:
+[2025.11.30-08.11.37:484][279]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 24 Vertices
+[2025.11.30-08.11.37:484][279]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2025.11.30-08.11.37:484][279]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2025.11.30-08.11.37:484][279]LogStaticMesh: ConstrainClusters:
+[2025.11.30-08.11.37:484][279]LogStaticMesh:   Input: 1 Clusters, 8 Triangles and 18 Vertices
+[2025.11.30-08.11.37:484][279]LogStaticMesh:   Output without splits: 1 Clusters, 8 Triangles and 18 Vertices
+[2025.11.30-08.11.37:484][279]LogStaticMesh:   Output with splits: 1 Clusters, 8 Triangles and 18 Vertices
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.30-08.11.37:484][279]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.30-08.11.37:485][279]LogStaticMesh: WritePages:
+[2025.11.30-08.11.37:485][279]LogStaticMesh:   Root: GPU size: 500 bytes. 1 Pages. 500.000 bytes per page (1.526% utilization).
+[2025.11.30-08.11.37:485][279]LogStaticMesh:   Streaming: 0 bytes.
+[2025.11.30-08.11.37:485][279]LogStaticMesh:   Page data disk size: 688 bytes. Fixup data size: 24 bytes.
+[2025.11.30-08.11.37:485][279]LogStaticMesh:   Total GPU size: 500 bytes, Total disk size: 712 bytes.
+[2025.11.30-08.11.37:485][279]LogStaticMesh: Encode [0.00s]
+[2025.11.30-08.11.37:485][279]LogStaticMesh: NaniteBuild [0.00s]
+[2025.11.30-08.11.37:485][279]LogStaticMesh: WritePages:
+[2025.11.30-08.11.37:485][279]LogStaticMesh:   Root: GPU size: 416 bytes. 1 Pages. 416.000 bytes per page (1.270% utilization).
+[2025.11.30-08.11.37:485][279]LogStaticMesh:   Streaming: 0 bytes.
+[2025.11.30-08.11.37:485][279]LogStaticMesh:   Page data disk size: 592 bytes. Fixup data size: 24 bytes.
+[2025.11.30-08.11.37:485][279]LogStaticMesh:   Total GPU size: 416 bytes, Total disk size: 616 bytes.
+[2025.11.30-08.11.37:485][279]LogStaticMesh: Encode [0.00s]
+[2025.11.30-08.11.37:485][279]LogStaticMesh: NaniteBuild [0.00s]
+[2025.11.30-08.11.37:486][279]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2025.11.30-08.11.37:486][279]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2025.11.30-08.11.37:487][279]LogStaticMesh: Adjacency [0.00s], tris: 768, UVs 2
+[2025.11.30-08.11.37:488][279]LogStaticMesh: Clustering [0.00s]. Ratio: 1.333333
+[2025.11.30-08.11.37:488][279]LogStaticMesh: Leaves [0.00s]
+[2025.11.30-08.11.37:492][279]LogWorldPartition: Display: WorldPartition initialize took 64.872 ms
+[2025.11.30-08.11.37:495][279]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.30-08.11.37:495][279]Cmd: MAP LOAD FILE="../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/FirstPerson/Lvl_FirstPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.11.30-08.11.37:496][279]LogStaticMesh: Adjacency [0.00s], tris: 2812, UVs 2
+[2025.11.30-08.11.37:499][279]LogStaticMesh: Clustering [0.00s]. Ratio: 1.045455
+[2025.11.30-08.11.37:499][279]LogStaticMesh: Leaves [0.00s]
+[2025.11.30-08.11.37:519][279]LogStaticMesh: Reduce [0.03s]
+[2025.11.30-08.11.37:519][279]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2025.11.30-08.11.37:519][279]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2025.11.30-08.11.37:520][279]LogStaticMesh: ConstrainClusters:
+[2025.11.30-08.11.37:520][279]LogStaticMesh:   Input: 14 Clusters, 1524 Triangles and 1252 Vertices
+[2025.11.30-08.11.37:520][279]LogStaticMesh:   Output without splits: 14 Clusters, 1524 Triangles and 1262 Vertices
+[2025.11.30-08.11.37:520][279]LogStaticMesh:   Output with splits: 14 Clusters, 1524 Triangles and 1262 Vertices
+[2025.11.30-08.11.37:520][279]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.30-08.11.37:520][279]LogStaticMesh: WritePages:
+[2025.11.30-08.11.37:520][279]LogStaticMesh:   Root: GPU size: 21376 bytes. 1 Pages. 21376.000 bytes per page (65.234% utilization).
+[2025.11.30-08.11.37:520][279]LogStaticMesh:   Streaming: 0 bytes.
+[2025.11.30-08.11.37:520][279]LogStaticMesh:   Page data disk size: 15876 bytes. Fixup data size: 72 bytes.
+[2025.11.30-08.11.37:520][279]LogStaticMesh:   Total GPU size: 21376 bytes, Total disk size: 15948 bytes.
+[2025.11.30-08.11.37:520][279]LogStaticMesh: Encode [0.00s]
+[2025.11.30-08.11.37:520][279]LogStaticMesh: NaniteBuild [0.03s]
+[2025.11.30-08.11.37:538][279]LogStaticMesh: Built static mesh [0.06s] /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder
+[2025.11.30-08.11.37:615][279]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.11.37:615][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.11.37:627][279]LogStaticMesh: Reduce [0.13s]
+[2025.11.30-08.11.37:627][279]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2025.11.30-08.11.37:628][279]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2025.11.30-08.11.37:628][279]LogStaticMesh: ConstrainClusters:
+[2025.11.30-08.11.37:628][279]LogStaticMesh:   Input: 46 Clusters, 5710 Triangles and 4605 Vertices
+[2025.11.30-08.11.37:628][279]LogStaticMesh:   Output without splits: 46 Clusters, 5710 Triangles and 4684 Vertices
+[2025.11.30-08.11.37:628][279]LogStaticMesh:   Output with splits: 46 Clusters, 5710 Triangles and 4684 Vertices
+[2025.11.30-08.11.37:628][279]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 46, Slow Path Clusters: 0, 1 Material: 46, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.30-08.11.37:629][279]LogStaticMesh: WritePages:
+[2025.11.30-08.11.37:629][279]LogStaticMesh:   Root: GPU size: 31868 bytes. 1 Pages. 31868.000 bytes per page (97.253% utilization).
+[2025.11.30-08.11.37:629][279]LogStaticMesh:   Streaming: GPU size: 47056 bytes. 1 Pages (1 with relative encoding). 47056.000 bytes per page (35.901% utilization).
+[2025.11.30-08.11.37:629][279]LogStaticMesh:   Page data disk size: 60112 bytes. Fixup data size: 288 bytes.
+[2025.11.30-08.11.37:629][279]LogStaticMesh:   Total GPU size: 78924 bytes, Total disk size: 60400 bytes.
+[2025.11.30-08.11.37:629][279]LogStaticMesh: Encode [0.00s]
+[2025.11.30-08.11.37:629][279]LogStaticMesh: NaniteBuild [0.13s]
+[2025.11.30-08.11.37:647][279]LogStaticMesh: Built static mesh [0.17s] /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder
+[2025.11.30-08.11.37:665][279]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.11.37:665][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.11.37:689][279]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.30-08.11.37:690][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.30-08.11.37:700][279]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.11.37:700][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.11.37:700][279]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.30-08.11.37:731][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.11.30-08.11.37:756][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.30-08.11.37:760][279]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_FirstPerson'.
+[2025.11.30-08.11.37:760][279]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.11.30-08.11.37:764][279]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.11.30-08.11.37:764][279]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.30-08.11.37:764][279]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.30-08.11.37:787][279]LogWorldPartition: Display: WorldPartition initialize took 22.535 ms (total: 87.408 ms)
+[2025.11.30-08.11.37:825][279]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.30-08.11.37:852][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.30-08.11.37:875][279]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.30-08.11.37:877][279]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.284ms to complete.
+[2025.11.30-08.11.37:955][279]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.30-08.11.37:955][279]LogContentValidation: Enabled validators:
+[2025.11.30-08.11.37:955][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.30-08.11.37:955][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.30-08.11.37:955][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.30-08.11.37:955][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.30-08.11.37:955][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.30-08.11.37:955][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.30-08.11.37:955][279]AssetCheck: /Game/UI/Main_Menu Validating asset
+[2025.11.30-08.11.38:202][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.11.30-08.11.38:285][280]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.11.38:559][280]LogPSOHitching: Encountered 100 PSO creation hitches so far (78 graphics, 22 compute). 0 of them were precached.
+[2025.11.30-08.11.46:304][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.11.30-08.11.46:308][  3]LogStreaming: Display: FlushAsyncLoading(700): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.11.46:319][  3]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Tutorial
+[2025.11.30-08.11.46:325][  3]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map_Tutorial.Map_Tutorial
+[2025.11.30-08.11.46:325][  3]Cmd: MAP LOAD FILE="../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Map_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.11.30-08.11.46:375][  3]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.11.46:377][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.11.46:377][  3]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.30-08.11.46:424][  3]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.30-08.11.46:429][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.11.30-08.11.46:430][  3]LogWorld: UWorld::CleanupWorld for Map_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.11.46:430][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.11.46:457][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.30-08.11.46:551][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.30-08.11.46:559][  3]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Tutorial'.
+[2025.11.30-08.11.46:559][  3]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Tutorial
+[2025.11.30-08.11.46:630][  3]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.30-08.11.46:659][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.11.30-08.11.46:682][  3]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.30-08.11.46:682][  3]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2025.11.30-08.11.46:849][  5]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.11.50:970][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.11.30-08.11.50:976][361]LogStreaming: Display: FlushAsyncLoading(702): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.11.51:013][361]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.11.51:014][361]LogAssetEditorSubsystem: Opening Asset editor for World /Game/mainmenumap.mainmenumap
+[2025.11.30-08.11.51:014][361]Cmd: MAP LOAD FILE="../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/mainmenumap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.11.30-08.11.51:075][361]LogWorld: UWorld::CleanupWorld for Map_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.11.51:075][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.11.51:102][361]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.30-08.11.51:107][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.11.30-08.11.51:108][361]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.11.51:108][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.11.51:137][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.30-08.11.51:218][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.11.30-08.11.51:241][361]LogAudio: Display: Audio Device (ID: 1) registered with world 'mainmenumap'.
+[2025.11.30-08.11.51:241][361]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.11.51:269][361]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.30-08.11.51:295][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.30-08.11.51:318][361]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.30-08.11.51:318][361]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.054ms to complete.
+[2025.11.30-08.11.51:461][362]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.11.53:285][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.11.30-08.11.53:291][552]LogStreaming: Display: FlushAsyncLoading(704): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.11.53:298][552]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Tutorial
+[2025.11.30-08.11.53:305][552]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map_Tutorial.Map_Tutorial
+[2025.11.30-08.11.53:305][552]Cmd: MAP LOAD FILE="../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Map_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.11.30-08.11.53:356][552]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.11.53:356][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.11.53:378][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.30-08.11.53:381][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.11.30-08.11.53:383][552]LogWorld: UWorld::CleanupWorld for Map_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.11.53:384][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.11.53:408][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.11.30-08.11.53:482][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.11.30-08.11.53:491][552]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Tutorial'.
+[2025.11.30-08.11.53:491][552]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Tutorial
+[2025.11.30-08.11.53:555][552]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.30-08.11.53:581][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.11.30-08.11.53:606][552]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.30-08.11.53:606][552]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2025.11.30-08.11.53:760][554]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.11.58:751][ 29]LogContentBrowser: Attempting asset rename: Map_Tutorial -> Map_Tutorial
+[2025.11.30-08.12.02:291][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.30-08.12.02:297][352]LogStreaming: Display: FlushAsyncLoading(706): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.12.02:315][352]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.12.02:315][352]LogAssetEditorSubsystem: Opening Asset editor for World /Game/mainmenumap.mainmenumap
+[2025.11.30-08.12.02:315][352]Cmd: MAP LOAD FILE="../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/mainmenumap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.11.30-08.12.02:365][352]LogWorld: UWorld::CleanupWorld for Map_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.12.02:365][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.12.02:390][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.30-08.12.02:392][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.30-08.12.02:395][352]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.12.02:395][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.12.02:420][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.30-08.12.02:498][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.30-08.12.02:521][352]LogAudio: Display: Audio Device (ID: 1) registered with world 'mainmenumap'.
+[2025.11.30-08.12.02:521][352]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.12.02:548][352]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.30-08.12.02:575][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.11.30-08.12.02:600][352]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.30-08.12.02:600][352]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.054ms to complete.
+[2025.11.30-08.12.02:734][354]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.12.20:766][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/menugamemode.menugamemode
+[2025.11.30-08.12.20:766][303]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.11.30-08.12.20:875][303]LogStreaming: Display: FlushAsyncLoading(708): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: ================================================
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Total job queries 3,104, among them cache hits 1,976 (63.66%), DDC hits 555 (17.88%), Duplicates 92 (2.96%)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Tracking 1,036 distinct input hashes that result in 792 distinct outputs (76.45%)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: RAM used: 7.27 MiB of 3.20 GiB budget. Usage: 0.22%
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Shaders Compiled: 481
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Jobs assigned 481, completed 481 (100%)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Average time worker was idle: 82.52 s
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.17 s
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 1.62 s
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Job life time (pending + execution): average 0.83 s, max 1.64
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Shader code size: total 4.183 MiB, numShaders 565, average 7.58 KiB, min 2.312 KiB, max 14.66 KiB
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 115.34 s
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.23%
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Jobs were issued in 481 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Average processing rate: 4.17 jobs/sec
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Total thread time: 321.448 s
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Total thread preprocess time: 39.752 s
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Percentage time preprocessing: 12.37%
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Effective parallelization: 2.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.232249
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   78 times, average 0.96 sec, max 1.11 sec, min 0.76 sec)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display:                              FRayTracingDecalMaterialCHS_AHS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   16 times, average 0.86 sec, max 0.95 sec, min 0.69 sec)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   42 times, average 0.78 sec, max 0.86 sec, min 0.65 sec)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled   42 times, average 0.75 sec, max 0.84 sec, min 0.64 sec)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.35% of total time (compiled   78 times, average 0.96 sec, max 1.11 sec, min 0.76 sec)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.06% of total time (compiled  131 times, average 0.52 sec, max 0.68 sec, min 0.33 sec)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display:                                                  FVelocityPS - 10.14% of total time (compiled   42 times, average 0.78 sec, max 0.86 sec, min 0.65 sec)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 9.86% of total time (compiled   42 times, average 0.75 sec, max 0.84 sec, min 0.64 sec)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.45% of total time (compiled   75 times, average 0.36 sec, max 0.51 sec, min 0.30 sec)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: === Material stats ===
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Materials Translated:    528
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Material Translation Only: 0.08 s (41%)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: Material Cache Hits: 10 (2%)
+[2025.11.30-08.13.29:186][862]LogShaderCompilers: Display: ================================================
+[2025.11.30-08.13.49:156][700]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8486.150391
+[2025.11.30-08.13.49:268][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-08.13.49:268][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8486.250977, Update Interval: 359.377411
+[2025.11.30-08.14.10:853][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.11.30-08.14.49:988][458]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.30-08.14.50:003][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.30-08.14.50:003][458]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.14.50:003][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000941s)
+[2025.11.30-08.14.50:003][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mainmenumap.mainmenumap to /Game/UEDPIE_0_mainmenumap.mainmenumap (0.000970s)
+[2025.11.30-08.14.50:028][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.30-08.14.50:031][458]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.14.50:032][458]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2025.11.30-08.14.50:032][458]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.11.30-08.14.50:032][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.30-08.14.50:032][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.30-08.14.50:032][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.30-08.14.50:032][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.30-08.14.50:032][458]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.30-08.14.50:032][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.30-08.14.50:032][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.30-08.14.50:032][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.30-08.14.50:032][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.30-08.14.50:034][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.30-08.14.50:034][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.30-08.14.50:036][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.30-08.14.50:064][458]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 Gaming Headset)
+[2025.11.30-08.14.50:064][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.30-08.14.50:064][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.30-08.14.50:064][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.30-08.14.50:064][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.11.30-08.14.50:064][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.11.30-08.14.50:067][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.11.30-08.14.50:067][458]LogInit: FAudioDevice initialized with ID 12.
+[2025.11.30-08.14.50:067][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.11.30-08.14.50:067][458]LogAudio: Display: Audio Device (ID: 12) registered with world 'mainmenumap'.
+[2025.11.30-08.14.50:067][458]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.11.30-08.14.50:072][458]LogLoad: Game class is 'menugamemode_C'
+[2025.11.30-08.14.50:072][458]LogWorld: Bringing World /Game/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2025.11.30-00.14.50
+[2025.11.30-08.14.50:072][458]LogWorld: Bringing up level for play took: 0.000338
+[2025.11.30-08.14.50:073][458]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.11.30-08.14.50:076][458]PIE: Server logged in
+[2025.11.30-08.14.50:078][458]PIE: Play in editor total start time 0.076 seconds.
+[2025.11.30-08.14.50:144][459]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.14.51:290][590]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Map_Tutorial"
+[2025.11.30-08.14.51:290][590]LogNet: Browse: /Game/Map_Tutorial
+[2025.11.30-08.14.51:290][590]LogLoad: LoadMap: /Game/Map_Tutorial
+[2025.11.30-08.14.51:290][590]LogWorld: BeginTearingDown for /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.14.51:290][590]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.14.51:290][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.14.51:342][590]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.30-08.14.51:345][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.11.30-08.14.51:346][590]LogStreaming: Display: FlushAsyncLoading(710): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.14.51:356][590]LogAudio: Display: Audio Device (ID: 12) registered with world 'Map_Tutorial'.
+[2025.11.30-08.14.51:356][590]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Tutorial
+[2025.11.30-08.14.51:358][590]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2025.11.30-08.14.51:358][590]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.30-08.14.51:367][590]LogWorld: Bringing World /Game/UEDPIE_0_Map_Tutorial.Map_Tutorial up for play (max tick rate 0) at 2025.11.30-00.14.51
+[2025.11.30-08.14.51:367][590]LogWorld: Bringing up level for play took: 0.008254
+[2025.11.30-08.14.51:371][590]LogLoad: Took 0.082190 seconds to LoadMap(/Game/Map_Tutorial)
+[2025.11.30-08.14.51:372][590]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Map_Tutorial
+[2025.11.30-08.14.51:385][591]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.14.54:800][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.14.54:800][946]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map_Tutorial
+[2025.11.30-08.14.54:800][946]LogWorld: UWorld::CleanupWorld for Map_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.14.54:800][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.14.54:803][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.30-08.14.54:809][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.14.54:832][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.14.54:832][946]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.11.30-08.14.54:832][946]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.11.30-08.14.54:833][946]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.11.30-08.14.54:841][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.30-08.14.54:873][947]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.11.30-08.14.56:580][145]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.30-08.14.56:594][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.30-08.14.56:596][145]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.14.56:596][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001046s)
+[2025.11.30-08.14.56:596][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mainmenumap.mainmenumap to /Game/UEDPIE_0_mainmenumap.mainmenumap (0.001077s)
+[2025.11.30-08.14.56:622][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.30-08.14.56:625][145]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.14.56:626][145]LogPlayLevel: PIE: World Init took: (0.001599s)
+[2025.11.30-08.14.56:627][145]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.11.30-08.14.56:627][145]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.30-08.14.56:627][145]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.30-08.14.56:627][145]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.30-08.14.56:627][145]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.30-08.14.56:627][145]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.30-08.14.56:627][145]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.30-08.14.56:627][145]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.30-08.14.56:627][145]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.30-08.14.56:627][145]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.30-08.14.56:627][145]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.30-08.14.56:627][145]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.30-08.14.56:630][145]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.30-08.14.56:658][145]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 Gaming Headset)
+[2025.11.30-08.14.56:658][145]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.30-08.14.56:658][145]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.30-08.14.56:658][145]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.30-08.14.56:659][145]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.11.30-08.14.56:659][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.11.30-08.14.56:660][145]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.11.30-08.14.56:660][145]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.11.30-08.14.56:660][145]LogInit: FAudioDevice initialized with ID 13.
+[2025.11.30-08.14.56:660][145]LogAudio: Display: Audio Device (ID: 13) registered with world 'mainmenumap'.
+[2025.11.30-08.14.56:660][145]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.11.30-08.14.56:665][145]LogLoad: Game class is 'menugamemode_C'
+[2025.11.30-08.14.56:665][145]LogWorld: Bringing World /Game/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2025.11.30-00.14.56
+[2025.11.30-08.14.56:665][145]LogWorld: Bringing up level for play took: 0.000347
+[2025.11.30-08.14.56:667][145]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.11.30-08.14.56:670][145]PIE: Server logged in
+[2025.11.30-08.14.56:672][145]PIE: Play in editor total start time 0.077 seconds.
+[2025.11.30-08.14.56:736][146]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.14.58:076][300]Cmd: quit
+[2025.11.30-08.14.58:076][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.14.58:076][300]LogWorld: BeginTearingDown for /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.14.58:120][300]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.14.58:120][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.14.58:120][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.30-08.14.58:126][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.14.58:150][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.14.58:151][300]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.11.30-08.14.58:151][300]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.11.30-08.14.58:152][300]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.11.30-08.14.58:157][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.11.30-08.14.58:222][301]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.11.30-08.15.42:501][581]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.30-08.15.42:515][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.30-08.15.42:515][581]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.15.42:516][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001169s)
+[2025.11.30-08.15.42:516][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mainmenumap.mainmenumap to /Game/UEDPIE_0_mainmenumap.mainmenumap (0.001210s)
+[2025.11.30-08.15.42:541][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.30-08.15.42:542][581]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.15.42:544][581]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2025.11.30-08.15.42:545][581]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.11.30-08.15.42:545][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.30-08.15.42:545][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.30-08.15.42:545][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.30-08.15.42:545][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.30-08.15.42:545][581]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.30-08.15.42:545][581]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.30-08.15.42:545][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.30-08.15.42:545][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.30-08.15.42:545][581]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.30-08.15.42:545][581]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.30-08.15.42:545][581]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.30-08.15.42:546][581]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.30-08.15.42:575][581]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 Gaming Headset)
+[2025.11.30-08.15.42:575][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.30-08.15.42:575][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.30-08.15.42:575][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.30-08.15.42:575][581]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.11.30-08.15.42:575][581]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.11.30-08.15.42:579][581]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.11.30-08.15.42:579][581]LogInit: FAudioDevice initialized with ID 14.
+[2025.11.30-08.15.42:579][581]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.11.30-08.15.42:579][581]LogAudio: Display: Audio Device (ID: 14) registered with world 'mainmenumap'.
+[2025.11.30-08.15.42:579][581]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.11.30-08.15.42:582][581]LogLoad: Game class is 'menugamemode_C'
+[2025.11.30-08.15.42:584][581]LogWorld: Bringing World /Game/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2025.11.30-00.15.42
+[2025.11.30-08.15.42:584][581]LogWorld: Bringing up level for play took: 0.000329
+[2025.11.30-08.15.42:585][581]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.11.30-08.15.42:588][581]PIE: Server logged in
+[2025.11.30-08.15.42:590][581]PIE: Play in editor total start time 0.075 seconds.
+[2025.11.30-08.15.42:640][582]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.15.45:800][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.15.45:800][944]LogWorld: BeginTearingDown for /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.15.45:800][944]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.15.45:800][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.15.45:801][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.30-08.15.45:808][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.15.45:832][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.15.45:832][944]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.11.30-08.15.45:832][944]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.11.30-08.15.45:834][944]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.11.30-08.15.45:840][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.30-08.15.45:873][945]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.11.30-08.16.02:883][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.30-08.16.04:520][147]LogSlate: Window 'Save Content' being destroyed
+[2025.11.30-08.16.04:550][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.30-08.16.04:608][147]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Main_Menu] ([2] browsable assets)...
+[2025.11.30-08.16.04:611][147]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Main_Menu.Main_Menu]
+[2025.11.30-08.16.04:611][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Main_Menu]
+[2025.11.30-08.16.04:611][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu" FILE="../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/UI/Main_Menu.uasset" SILENT=true
+[2025.11.30-08.16.04:626][147]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu
+[2025.11.30-08.16.04:627][147]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Main_MenuCAF9B9D149B518F5BE52928270253B95.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/UI/Main_Menu.uasset'
+[2025.11.30-08.16.04:639][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.707 ms (total: 3.99 sec)
+[2025.11.30-08.16.04:690][147]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.30-08.16.04:690][147]LogContentValidation: Enabled validators:
+[2025.11.30-08.16.04:690][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.30-08.16.04:690][147]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.30-08.16.04:690][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.30-08.16.04:690][147]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.30-08.16.04:690][147]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.30-08.16.04:690][147]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.30-08.16.04:690][147]AssetCheck: /Game/UI/Main_Menu Validating asset
+[2025.11.30-08.20.13:965][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.11.30-08.20.21:981][686]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.30-08.20.21:995][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.30-08.20.21:995][686]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.20.21:997][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000977s)
+[2025.11.30-08.20.21:997][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mainmenumap.mainmenumap to /Game/UEDPIE_0_mainmenumap.mainmenumap (0.001006s)
+[2025.11.30-08.20.22:022][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.30-08.20.22:024][686]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.20.22:026][686]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2025.11.30-08.20.22:027][686]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.11.30-08.20.22:027][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.30-08.20.22:027][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.30-08.20.22:027][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.30-08.20.22:027][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.30-08.20.22:027][686]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.30-08.20.22:027][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.30-08.20.22:027][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.30-08.20.22:027][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.30-08.20.22:027][686]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.30-08.20.22:027][686]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.30-08.20.22:027][686]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.30-08.20.22:029][686]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.30-08.20.22:058][686]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 Gaming Headset)
+[2025.11.30-08.20.22:058][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.30-08.20.22:058][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.30-08.20.22:058][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.30-08.20.22:059][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.11.30-08.20.22:059][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.11.30-08.20.22:061][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.11.30-08.20.22:061][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.11.30-08.20.22:061][686]LogInit: FAudioDevice initialized with ID 15.
+[2025.11.30-08.20.22:061][686]LogAudio: Display: Audio Device (ID: 15) registered with world 'mainmenumap'.
+[2025.11.30-08.20.22:061][686]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.11.30-08.20.22:065][686]LogLoad: Game class is 'menugamemode_C'
+[2025.11.30-08.20.22:065][686]LogWorld: Bringing World /Game/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2025.11.30-00.20.22
+[2025.11.30-08.20.22:065][686]LogWorld: Bringing up level for play took: 0.000367
+[2025.11.30-08.20.22:068][686]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.11.30-08.20.22:069][686]PIE: Server logged in
+[2025.11.30-08.20.22:072][686]PIE: Play in editor total start time 0.076 seconds.
+[2025.11.30-08.20.22:076][686]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.30-08.20.22:076][686]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.30-08.20.22:122][687]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.20.41:976][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8899.006836
+[2025.11.30-08.20.42:103][599]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-08.20.42:103][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8899.125977, Update Interval: 312.343506
+[2025.11.30-08.21.36:542][545]Cmd: SELECT NONE
+[2025.11.30-08.21.37:332][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.21.37:332][635]LogWorld: BeginTearingDown for /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.21.37:332][635]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.21.37:332][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.21.37:332][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.30-08.21.37:339][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.21.37:363][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.21.37:363][635]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.11.30-08.21.37:363][635]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.11.30-08.21.37:365][635]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.11.30-08.21.37:372][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.30-08.21.37:401][636]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.11.30-08.22.00:042][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.30-08.22.00:092][456]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.22.00:092][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001045s)
+[2025.11.30-08.22.00:092][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mainmenumap.mainmenumap to /Game/UEDPIE_0_mainmenumap.mainmenumap (0.001085s)
+[2025.11.30-08.22.00:118][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.11.30-08.22.00:119][456]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.22.00:121][456]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2025.11.30-08.22.00:122][456]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.11.30-08.22.00:122][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.30-08.22.00:122][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.30-08.22.00:122][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.30-08.22.00:122][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.30-08.22.00:122][456]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.30-08.22.00:122][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.30-08.22.00:122][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.30-08.22.00:122][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.30-08.22.00:122][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.30-08.22.00:122][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.30-08.22.00:122][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.30-08.22.00:124][456]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.30-08.22.00:151][456]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 Gaming Headset)
+[2025.11.30-08.22.00:152][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.30-08.22.00:152][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.30-08.22.00:152][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.30-08.22.00:152][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.11.30-08.22.00:152][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.11.30-08.22.00:153][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.11.30-08.22.00:153][456]LogInit: FAudioDevice initialized with ID 16.
+[2025.11.30-08.22.00:153][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.11.30-08.22.00:153][456]LogAudio: Display: Audio Device (ID: 16) registered with world 'mainmenumap'.
+[2025.11.30-08.22.00:153][456]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.11.30-08.22.00:191][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.22.00:192][456]LogLoad: Game class is 'menugamemode_C'
+[2025.11.30-08.22.00:192][456]LogWorld: Bringing World /Game/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2025.11.30-00.22.00
+[2025.11.30-08.22.00:192][456]LogWorld: Bringing up level for play took: 0.000364
+[2025.11.30-08.22.00:195][456]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.11.30-08.22.00:201][456]PIE: Server logged in
+[2025.11.30-08.22.00:206][456]PIE: Play in editor total start time 0.164 seconds.
+[2025.11.30-08.22.00:233][456]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.30-08.22.00:233][456]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.30-08.22.00:235][457]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2025.11.30-08.22.00:235][457]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2025.11.30-08.22.00:284][457]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.22.12:632][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.22.12:632][797]LogWorld: BeginTearingDown for /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.22.12:632][797]LogSlate: Window 'BeachTacos Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.30-08.22.12:642][797]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.22.12:642][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.22.12:643][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.30-08.22.12:649][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.22.12:675][797]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.11.30-08.22.12:675][797]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.11.30-08.22.12:676][797]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.11.30-08.22.12:682][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.30-08.22.12:715][798]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.11.30-08.22.18:512][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.30-08.22.18:512][476]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.22.18:513][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000979s)
+[2025.11.30-08.22.18:513][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mainmenumap.mainmenumap to /Game/UEDPIE_0_mainmenumap.mainmenumap (0.001011s)
+[2025.11.30-08.22.18:538][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.30-08.22.18:540][476]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.22.18:542][476]LogPlayLevel: PIE: World Init took: (0.001577s)
+[2025.11.30-08.22.18:543][476]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.11.30-08.22.18:543][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.30-08.22.18:543][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.30-08.22.18:543][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.30-08.22.18:543][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.30-08.22.18:543][476]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.30-08.22.18:543][476]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.30-08.22.18:543][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.30-08.22.18:543][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.30-08.22.18:543][476]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.30-08.22.18:543][476]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.30-08.22.18:543][476]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.30-08.22.18:545][476]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.30-08.22.18:573][476]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 Gaming Headset)
+[2025.11.30-08.22.18:573][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.30-08.22.18:573][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.30-08.22.18:573][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.30-08.22.18:573][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.11.30-08.22.18:573][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.11.30-08.22.18:575][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.11.30-08.22.18:575][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.11.30-08.22.18:575][476]LogInit: FAudioDevice initialized with ID 17.
+[2025.11.30-08.22.18:575][476]LogAudio: Display: Audio Device (ID: 17) registered with world 'mainmenumap'.
+[2025.11.30-08.22.18:575][476]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.11.30-08.22.18:580][476]LogLoad: Game class is 'menugamemode_C'
+[2025.11.30-08.22.18:581][476]LogWorld: Bringing World /Game/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2025.11.30-00.22.18
+[2025.11.30-08.22.18:581][476]LogWorld: Bringing up level for play took: 0.000347
+[2025.11.30-08.22.18:582][476]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.11.30-08.22.18:585][476]PIE: Server logged in
+[2025.11.30-08.22.18:586][476]PIE: Play in editor total start time 0.075 seconds.
+[2025.11.30-08.22.18:592][476]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.30-08.22.18:592][476]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.30-08.22.18:678][477]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.22.20:002][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.22.20:002][620]LogWorld: BeginTearingDown for /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.22.20:002][620]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.22.20:002][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.22.20:002][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.30-08.22.20:007][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.22.20:030][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.22.20:030][620]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.11.30-08.22.20:032][620]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.11.30-08.22.20:033][620]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.11.30-08.22.20:037][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.11.30-08.22.20:066][621]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.11.30-08.23.42:764][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.30-08.23.42:768][444]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mainmenumap' took 0.072
+[2025.11.30-08.23.42:771][444]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Main_Menu] ([2] browsable assets)...
+[2025.11.30-08.23.42:775][444]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Main_Menu.Main_Menu]
+[2025.11.30-08.23.42:775][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Main_Menu]
+[2025.11.30-08.23.42:794][444]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Main_Menu_Auto5
+[2025.11.30-08.23.42:794][444]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Main_Menu_Auto57719510D49B226B81ABDAA8B87CF8ECD.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/UI/Main_Menu_Auto5.uasset'
+[2025.11.30-08.23.42:796][444]LogFileHelpers: Auto-saving content packages took 0.027
+[2025.11.30-08.25.35:191][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.11.30-08.25.50:616][779]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.30-08.25.50:631][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.30-08.25.50:631][779]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.25.50:631][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001041s)
+[2025.11.30-08.25.50:631][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mainmenumap.mainmenumap to /Game/UEDPIE_0_mainmenumap.mainmenumap (0.001075s)
+[2025.11.30-08.25.50:657][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.30-08.25.50:660][779]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.25.50:661][779]LogPlayLevel: PIE: World Init took: (0.001547s)
+[2025.11.30-08.25.50:662][779]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.11.30-08.25.50:662][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.30-08.25.50:662][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.30-08.25.50:662][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.30-08.25.50:662][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.30-08.25.50:662][779]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.30-08.25.50:662][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.30-08.25.50:662][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.30-08.25.50:662][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.30-08.25.50:662][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.30-08.25.50:662][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.30-08.25.50:662][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.30-08.25.50:664][779]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.30-08.25.50:692][779]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 Gaming Headset)
+[2025.11.30-08.25.50:692][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.30-08.25.50:692][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.30-08.25.50:692][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.30-08.25.50:693][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.11.30-08.25.50:693][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.11.30-08.25.50:695][779]LogInit: FAudioDevice initialized with ID 18.
+[2025.11.30-08.25.50:695][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.11.30-08.25.50:695][779]LogAudio: Display: Audio Device (ID: 18) registered with world 'mainmenumap'.
+[2025.11.30-08.25.50:695][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.11.30-08.25.50:695][779]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.11.30-08.25.50:700][779]LogLoad: Game class is 'menugamemode_C'
+[2025.11.30-08.25.50:700][779]LogWorld: Bringing World /Game/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2025.11.30-00.25.50
+[2025.11.30-08.25.50:700][779]LogWorld: Bringing up level for play took: 0.000343
+[2025.11.30-08.25.50:702][779]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.11.30-08.25.50:702][779]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.30-08.25.50:702][779]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.30-08.25.50:704][779]PIE: Server logged in
+[2025.11.30-08.25.50:706][779]PIE: Play in editor total start time 0.076 seconds.
+[2025.11.30-08.25.50:771][780]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.25.53:016][ 42]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.30-08.25.53:016][ 42]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.30-08.25.53:018][ 42]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Map_Tutorial"
+[2025.11.30-08.25.53:018][ 42]LogNet: Browse: /Game/Map_Tutorial
+[2025.11.30-08.25.53:018][ 42]LogLoad: LoadMap: /Game/Map_Tutorial
+[2025.11.30-08.25.53:018][ 42]LogWorld: BeginTearingDown for /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.25.53:018][ 42]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.25.53:018][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.25.53:064][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.30-08.25.53:065][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.30-08.25.53:068][ 42]LogStreaming: Display: FlushAsyncLoading(711): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.25.53:075][ 42]LogAudio: Display: Audio Device (ID: 18) registered with world 'Map_Tutorial'.
+[2025.11.30-08.25.53:075][ 42]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Tutorial
+[2025.11.30-08.25.53:076][ 42]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2025.11.30-08.25.53:076][ 42]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.30-08.25.53:084][ 42]LogWorld: Bringing World /Game/UEDPIE_0_Map_Tutorial.Map_Tutorial up for play (max tick rate 0) at 2025.11.30-00.25.53
+[2025.11.30-08.25.53:084][ 42]LogWorld: Bringing up level for play took: 0.007819
+[2025.11.30-08.25.53:088][ 42]LogLoad: Took 0.070866 seconds to LoadMap(/Game/Map_Tutorial)
+[2025.11.30-08.25.53:088][ 42]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Map_Tutorial
+[2025.11.30-08.25.53:102][ 43]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.25.57:881][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.25.57:881][538]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map_Tutorial
+[2025.11.30-08.25.57:881][538]LogWorld: UWorld::CleanupWorld for Map_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.25.57:881][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.25.57:884][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.30-08.25.57:890][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.25.57:913][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.25.57:914][538]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.11.30-08.25.57:914][538]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.11.30-08.25.57:916][538]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.11.30-08.25.57:921][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.30-08.25.57:958][539]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.11.30-08.25.59:476][715]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.30-08.25.59:492][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.30-08.25.59:530][715]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.25.59:531][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001091s)
+[2025.11.30-08.25.59:531][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mainmenumap.mainmenumap to /Game/UEDPIE_0_mainmenumap.mainmenumap (0.001155s)
+[2025.11.30-08.25.59:555][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.30-08.25.59:558][715]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.25.59:559][715]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2025.11.30-08.25.59:559][715]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.11.30-08.25.59:559][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.30-08.25.59:559][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.30-08.25.59:559][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.30-08.25.59:559][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.30-08.25.59:559][715]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.30-08.25.59:559][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.30-08.25.59:559][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.30-08.25.59:560][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.30-08.25.59:560][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.30-08.25.59:560][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.30-08.25.59:560][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.30-08.25.59:561][715]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.30-08.25.59:590][715]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 Gaming Headset)
+[2025.11.30-08.25.59:590][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.30-08.25.59:590][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.30-08.25.59:590][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.30-08.25.59:591][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.11.30-08.25.59:591][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.11.30-08.25.59:593][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.11.30-08.25.59:593][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.11.30-08.25.59:593][715]LogInit: FAudioDevice initialized with ID 19.
+[2025.11.30-08.25.59:593][715]LogAudio: Display: Audio Device (ID: 19) registered with world 'mainmenumap'.
+[2025.11.30-08.25.59:593][715]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.11.30-08.25.59:597][715]LogLoad: Game class is 'menugamemode_C'
+[2025.11.30-08.25.59:597][715]LogWorld: Bringing World /Game/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2025.11.30-00.25.59
+[2025.11.30-08.25.59:597][715]LogWorld: Bringing up level for play took: 0.000326
+[2025.11.30-08.25.59:598][715]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.11.30-08.25.59:600][715]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.30-08.25.59:600][715]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.30-08.25.59:601][715]PIE: Server logged in
+[2025.11.30-08.25.59:602][715]PIE: Play in editor total start time 0.111 seconds.
+[2025.11.30-08.25.59:657][716]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.26.00:317][789]Cmd: quit
+[2025.11.30-08.26.00:317][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.26.00:317][789]LogWorld: BeginTearingDown for /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.26.00:341][789]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.26.00:341][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.26.00:341][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.30-08.26.00:347][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.26.00:371][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.26.00:371][789]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.11.30-08.26.00:371][789]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.11.30-08.26.00:372][789]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.11.30-08.26.00:378][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.30-08.26.00:441][790]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.11.30-08.26.03:966][210]Cmd: SELECT NONE
+[2025.11.30-08.26.07:550][637]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.30-08.26.07:564][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.30-08.26.07:591][637]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.26.07:591][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001008s)
+[2025.11.30-08.26.07:591][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mainmenumap.mainmenumap to /Game/UEDPIE_0_mainmenumap.mainmenumap (0.001049s)
+[2025.11.30-08.26.07:615][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.30-08.26.07:616][637]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.26.07:618][637]LogPlayLevel: PIE: World Init took: (0.001431s)
+[2025.11.30-08.26.07:620][637]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.11.30-08.26.07:620][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.30-08.26.07:620][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.30-08.26.07:620][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.30-08.26.07:620][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.30-08.26.07:620][637]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.30-08.26.07:620][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.30-08.26.07:620][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.30-08.26.07:620][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.30-08.26.07:620][637]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.30-08.26.07:620][637]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.30-08.26.07:620][637]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.30-08.26.07:621][637]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.30-08.26.07:651][637]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 Gaming Headset)
+[2025.11.30-08.26.07:651][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.30-08.26.07:651][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.30-08.26.07:651][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.30-08.26.07:651][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.11.30-08.26.07:651][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.11.30-08.26.07:653][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.11.30-08.26.07:653][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.11.30-08.26.07:653][637]LogInit: FAudioDevice initialized with ID 20.
+[2025.11.30-08.26.07:653][637]LogAudio: Display: Audio Device (ID: 20) registered with world 'mainmenumap'.
+[2025.11.30-08.26.07:653][637]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.30-08.26.07:658][637]LogLoad: Game class is 'menugamemode_C'
+[2025.11.30-08.26.07:658][637]LogWorld: Bringing World /Game/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2025.11.30-00.26.07
+[2025.11.30-08.26.07:658][637]LogWorld: Bringing up level for play took: 0.000347
+[2025.11.30-08.26.07:660][637]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.11.30-08.26.07:661][637]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.30-08.26.07:661][637]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.30-08.26.07:662][637]PIE: Server logged in
+[2025.11.30-08.26.07:665][637]PIE: Play in editor total start time 0.101 seconds.
+[2025.11.30-08.26.07:720][638]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.26.08:445][719]Cmd: quit
+[2025.11.30-08.26.08:445][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.26.08:445][719]LogWorld: BeginTearingDown for /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.26.08:490][719]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.26.08:490][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.26.08:490][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.30-08.26.08:496][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.26.08:520][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.26.08:521][719]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.30-08.26.08:521][719]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.11.30-08.26.08:521][719]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.11.30-08.26.08:528][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.30-08.26.08:591][720]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.11.30-08.26.09:553][834]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.30-08.26.09:567][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.30-08.26.09:567][834]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.26.09:570][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001013s)
+[2025.11.30-08.26.09:570][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mainmenumap.mainmenumap to /Game/UEDPIE_0_mainmenumap.mainmenumap (0.001046s)
+[2025.11.30-08.26.09:595][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.11.30-08.26.09:597][834]LogChaosDD: Creating Chaos Debug Draw Scene for world mainmenumap
+[2025.11.30-08.26.09:598][834]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2025.11.30-08.26.09:598][834]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.11.30-08.26.09:598][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.30-08.26.09:598][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.30-08.26.09:598][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.30-08.26.09:598][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.30-08.26.09:598][834]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.30-08.26.09:598][834]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.30-08.26.09:598][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.30-08.26.09:598][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.30-08.26.09:598][834]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.30-08.26.09:598][834]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.30-08.26.09:598][834]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.30-08.26.09:601][834]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.30-08.26.09:627][834]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 Gaming Headset)
+[2025.11.30-08.26.09:629][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.30-08.26.09:629][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.30-08.26.09:629][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.30-08.26.09:629][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.11.30-08.26.09:629][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.11.30-08.26.09:631][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.11.30-08.26.09:631][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.11.30-08.26.09:631][834]LogInit: FAudioDevice initialized with ID 21.
+[2025.11.30-08.26.09:631][834]LogAudio: Display: Audio Device (ID: 21) registered with world 'mainmenumap'.
+[2025.11.30-08.26.09:631][834]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.11.30-08.26.09:635][834]LogLoad: Game class is 'menugamemode_C'
+[2025.11.30-08.26.09:635][834]LogWorld: Bringing World /Game/UEDPIE_0_mainmenumap.mainmenumap up for play (max tick rate 0) at 2025.11.30-00.26.09
+[2025.11.30-08.26.09:637][834]LogWorld: Bringing up level for play took: 0.000331
+[2025.11.30-08.26.09:638][834]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.11.30-08.26.09:640][834]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.30-08.26.09:640][834]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.30-08.26.09:641][834]PIE: Server logged in
+[2025.11.30-08.26.09:643][834]PIE: Play in editor total start time 0.074 seconds.
+[2025.11.30-08.26.09:698][835]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.26.10:619][939]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.30-08.26.10:619][939]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.30-08.26.10:620][939]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Map_Tutorial"
+[2025.11.30-08.26.10:620][939]LogNet: Browse: /Game/Map_Tutorial
+[2025.11.30-08.26.10:620][939]LogLoad: LoadMap: /Game/Map_Tutorial
+[2025.11.30-08.26.10:620][939]LogWorld: BeginTearingDown for /Game/UEDPIE_0_mainmenumap
+[2025.11.30-08.26.10:620][939]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.26.10:620][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.26.10:684][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.30-08.26.10:686][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.30-08.26.10:687][939]LogStreaming: Display: FlushAsyncLoading(712): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.26.10:695][939]LogAudio: Display: Audio Device (ID: 21) registered with world 'Map_Tutorial'.
+[2025.11.30-08.26.10:695][939]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Tutorial
+[2025.11.30-08.26.10:696][939]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2025.11.30-08.26.10:696][939]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.30-08.26.10:704][939]LogWorld: Bringing World /Game/UEDPIE_0_Map_Tutorial.Map_Tutorial up for play (max tick rate 0) at 2025.11.30-00.26.10
+[2025.11.30-08.26.10:705][939]LogWorld: Bringing up level for play took: 0.007725
+[2025.11.30-08.26.10:708][939]LogLoad: Took 0.088285 seconds to LoadMap(/Game/Map_Tutorial)
+[2025.11.30-08.26.10:708][939]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Map_Tutorial
+[2025.11.30-08.26.10:722][940]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.30-08.26.26:591][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.26.26:591][637]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map_Tutorial
+[2025.11.30-08.26.26:591][637]LogWorld: UWorld::CleanupWorld for Map_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.26.26:591][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.26.26:593][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.30-08.26.26:598][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.26.26:625][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.30-08.26.26:625][637]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.11.30-08.26.26:625][637]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.11.30-08.26.26:627][637]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.11.30-08.26.26:632][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.30-08.26.26:668][638]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.11.30-08.26.27:753][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.30-08.26.29:274][760]LogSlate: Window 'Save Content' being destroyed
+[2025.11.30-08.26.29:283][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.30-08.26.29:319][760]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Main_Menu] ([2] browsable assets)...
+[2025.11.30-08.26.29:322][760]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Main_Menu.Main_Menu]
+[2025.11.30-08.26.29:322][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Main_Menu]
+[2025.11.30-08.26.29:322][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu" FILE="../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/UI/Main_Menu.uasset" SILENT=true
+[2025.11.30-08.26.29:338][760]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu
+[2025.11.30-08.26.29:340][760]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Main_MenuA656FFFF4FA3391003636DA8E519564A.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/UI/Main_Menu.uasset'
+[2025.11.30-08.26.29:365][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.560 ms (total: 4.07 sec)
+[2025.11.30-08.26.29:438][760]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.30-08.26.29:438][760]LogContentValidation: Enabled validators:
+[2025.11.30-08.26.29:438][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.30-08.26.29:438][760]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.30-08.26.29:438][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.30-08.26.29:438][760]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.30-08.26.29:438][760]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.30-08.26.29:438][760]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.30-08.26.29:440][760]AssetCheck: /Game/UI/Main_Menu Validating asset
+[2025.11.30-08.26.30:556][889]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9247.622070
+[2025.11.30-08.26.30:680][904]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.30-08.26.30:680][904]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9247.737305, Update Interval: 319.365814
+[2025.11.30-08.26.40:909][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.11.30-08.26.40:912][ 30]LogStreaming: Display: FlushAsyncLoading(713): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.30-08.26.40:918][ 30]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Tutorial
+[2025.11.30-08.26.40:925][ 30]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map_Tutorial.Map_Tutorial
+[2025.11.30-08.26.40:926][ 30]Cmd: MAP LOAD FILE="../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Map_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.11.30-08.26.41:003][ 30]LogWorld: UWorld::CleanupWorld for mainmenumap, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.26.41:003][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.26.41:027][ 30]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.30-08.26.41:028][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.30-08.26.41:031][ 30]LogWorld: UWorld::CleanupWorld for Map_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2025.11.30-08.26.41:031][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.30-08.26.41:057][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.30-08.26.41:143][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.30-08.26.41:151][ 30]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Tutorial'.
+[2025.11.30-08.26.41:151][ 30]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Tutorial
+[2025.11.30-08.26.41:218][ 30]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.30-08.26.41:246][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.30-08.26.41:270][ 30]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.30-08.26.41:270][ 30]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2025.11.30-08.26.41:424][ 31]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
