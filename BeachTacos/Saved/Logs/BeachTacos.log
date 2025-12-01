@@ -6343,3 +6343,1399 @@ Sampler Limit: 32
 [2025.12.01-07.52.24:106][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.01-07.52.24:106][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.01-07.52.24:106][588]AssetCheck: /Game/Map_Tutorial Validating asset
+[2025.12.01-07.53.29:539][310]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.12.01-07.53.29:604][311]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.12.01-07.53.29:643][312]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.12.01-07.54.00:059][527]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6511.446777
+[2025.12.01-07.54.01:060][530]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-07.54.01:060][530]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6512.114258, Update Interval: 324.095581
+[2025.12.01-07.54.28:385][804]LogStreaming: Display: FlushAsyncLoading(666): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-07.54.28:416][804]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sarah/Downloads/Onions.fbx]
+[2025.12.01-07.55.18:346][804]LogSlate: Window 'Import Content' being destroyed
+[2025.12.01-07.55.18:376][804]LogInterchangeEngine: [Pending] Importing
+[2025.12.01-07.55.18:572][805]LogStreaming: Display: FlushAsyncLoading(667): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-07.55.18:635][806]LogStreaming: Display: FlushAsyncLoading(673): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-07.55.18:838][808]LogStreaming: Display: FlushAsyncLoading(674): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-07.55.19:044][810]LogStaticMesh: Display: Building static mesh Onions (Required Memory Estimate: 25.758286 MB)...
+[2025.12.01-07.55.19:092][811]LogStaticMesh: Adjacency [0.00s], tris: 16864, UVs 1
+[2025.12.01-07.55.19:121][812]LogStaticMesh: Clustering [0.03s]. Ratio: 1.015152
+[2025.12.01-07.55.19:122][812]LogStaticMesh: Leaves [0.00s]
+[2025.12.01-07.55.19:322][823]LogStaticMesh: Reduce [0.20s]
+[2025.12.01-07.55.19:584][833]LogStaticMesh: Fallback [0.26s], num tris: 10028
+[2025.12.01-07.55.19:727][842]LogStaticMesh: Fallback [0.14s], num tris: 6320
+[2025.12.01-07.55.19:730][842]LogStaticMesh: ConstrainClusters:
+[2025.12.01-07.55.19:730][842]LogStaticMesh:   Input: 275 Clusters, 34626 Triangles and 21980 Vertices
+[2025.12.01-07.55.19:730][842]LogStaticMesh:   Output without splits: 275 Clusters, 34626 Triangles and 27492 Vertices
+[2025.12.01-07.55.19:730][842]LogStaticMesh:   Output with splits: 275 Clusters, 34626 Triangles and 27492 Vertices
+[2025.12.01-07.55.19:732][842]LogStaticMesh: Material Stats - Unique Materials: 6, Fast Path Clusters: 236, Slow Path Clusters: 39, 1 Material: 10, 2 Materials: 118, 3 Materials: 108, At Least 4 Materials: 39
+[2025.12.01-07.55.19:736][843]LogStaticMesh: WritePages:
+[2025.12.01-07.55.19:736][843]LogStaticMesh:   Root: GPU size: 32500 bytes. 1 Pages. 32500.000 bytes per page (99.182% utilization).
+[2025.12.01-07.55.19:736][843]LogStaticMesh:   Streaming: GPU size: 259088 bytes. 2 Pages (2 with relative encoding). 129544.000 bytes per page (98.834% utilization).
+[2025.12.01-07.55.19:736][843]LogStaticMesh:   Page data disk size: 234240 bytes. Fixup data size: 1056 bytes.
+[2025.12.01-07.55.19:736][843]LogStaticMesh:   Total GPU size: 291588 bytes, Total disk size: 235296 bytes.
+[2025.12.01-07.55.19:736][843]LogStaticMesh: Encode [0.01s]
+[2025.12.01-07.55.19:736][843]LogStaticMesh: NaniteBuild [0.65s]
+[2025.12.01-07.55.20:005][860]LogStaticMesh: Built static mesh [0.96s] /Game/Ingredients/Meshes/MergedMeshes/Onions.Onions
+[2025.12.01-07.55.20:067][865]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.065 Y=-8.888 Z=73.793, BoxExtent=(X=219.689 Y=295.714 Z=85.083), SphereRadius=(473.557617)) and MeshDescription Bounds (Origin=X=-4.065 Y=-8.888 Z=65.962, BoxExtent=(X=219.689 Y=295.714 Z=77.200), SphereRadius=(356.786024)) is significative for StaticMesh /Game/Ingredients/Meshes/MergedMeshes/Onions.Onions
+[2025.12.01-07.55.20:697][899]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sarah/Downloads/Onions.fbx]
+[2025.12.01-07.55.20:697][899]Interchange: Warning: [C:/Users/sarah/Downloads/Onions.fbx : '', Unknown] Renamed Assets: 
+ OriginalName:[/Game/Ingredients/Meshes/MergedMeshes/OnionBase] NewName:[/Game/Ingredients/Meshes/MergedMeshes/OnionBase1]
+[2025.12.01-07.55.20:697][899]Interchange: Warning: [C:/Users/sarah/Downloads/Onions.fbx : 'Onions', StaticMesh] No smoothing group information was found for this mesh 'Cube_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.12.01-07.55.20:697][899]Interchange: Warning: [C:/Users/sarah/Downloads/Onions.fbx : 'Onions', StaticMesh] No smoothing group information was found for this mesh 'Cube' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.12.01-07.55.20:697][899]Interchange: Warning: [C:/Users/sarah/Downloads/Onions.fbx : 'Onions', StaticMesh] No smoothing group information was found for this mesh 'Circle_056' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.12.01-07.55.20:753][899]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.01-07.55.20:753][899]LogInterchangeEngine: [Success] Import Done
+[2025.12.01-07.55.20:805][900]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.065 Y=-8.888 Z=73.793, BoxExtent=(X=219.689 Y=295.714 Z=85.083), SphereRadius=(473.557617)) and MeshDescription Bounds (Origin=X=-4.065 Y=-8.888 Z=65.962, BoxExtent=(X=219.689 Y=295.714 Z=77.200), SphereRadius=(356.786024)) is significative for StaticMesh /Game/Ingredients/Meshes/MergedMeshes/Onions.Onions
+[2025.12.01-07.55.20:887][901]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/OnionFlesh.OnionFlesh needed to have new flag set bUsedWithNanite !
+[2025.12.01-07.55.20:914][901]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/OnionBase1.OnionBase1 needed to have new flag set bUsedWithNanite !
+[2025.12.01-07.55.20:919][901]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/Container.Container needed to have new flag set bUsedWithNanite !
+[2025.12.01-07.55.20:929][901]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/OnionPeel.OnionPeel needed to have new flag set bUsedWithNanite !
+[2025.12.01-07.55.20:937][901]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/DarkerOnionPeel.DarkerOnionPeel needed to have new flag set bUsedWithNanite !
+[2025.12.01-07.55.20:943][901]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/LighterOnionPeel.LighterOnionPeel needed to have new flag set bUsedWithNanite !
+[2025.12.01-07.55.40:497][147]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Ingredients/Meshes/MergedMeshes/Onions.Onions
+[2025.12.01-07.55.40:497][147]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Ingredients/Meshes/MergedMeshes/Onions.Onions
+[2025.12.01-07.55.40:497][147]LogActorFactory: Actor Factory spawned StaticMesh /Game/Ingredients/Meshes/MergedMeshes/Onions.Onions as actor: StaticMeshActor /Game/Map_Tutorial.Map_Tutorial:PersistentLevel.StaticMeshActor_7
+[2025.12.01-07.55.48:500][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.12.01-07.55.48:506][821]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.12.01-07.55.48:510][821]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Ingredients/Meshes/MergedMeshes/Onions.Onions
+[2025.12.01-07.55.48:510][821]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Ingredients/Meshes/MergedMeshes/Onions.Onions
+[2025.12.01-07.55.48:512][821]LogActorFactory: Actor Factory spawned StaticMesh /Game/Ingredients/Meshes/MergedMeshes/Onions.Onions as actor: StaticMeshActor /Game/Map_Tutorial.Map_Tutorial:PersistentLevel.StaticMeshActor_15
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: ================================================
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Total job queries 2,150, among them cache hits 921 (42.84%), DDC hits 572 (26.60%), Duplicates 238 (11.07%)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Tracking 991 distinct input hashes that result in 736 distinct outputs (74.27%)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: RAM used: 7.49 MiB of 3.20 GiB budget. Usage: 0.23%
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Shaders Compiled: 419
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Jobs assigned 419, completed 419 (100%)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Average time worker was idle: 255.63 s
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Time job spent in pending queue: average 0.91 s, longest 9.41 s
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Job execution time: average 3.63 s, max 10.61 s
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Job life time (pending + execution): average 4.53 s, max 10.91
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Shader code size: total 4.31 MiB, numShaders 441, average 10.007 KiB, min 2.105 KiB, max 21.723 KiB
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 73.33 s
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.85%
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Jobs were issued in 261 batches (only local compilation was used), average 1.61 jobs/batch
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Average processing rate: 5.71 jobs/sec
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Total thread time: 373.355 s
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Total thread preprocess time: 29.462 s
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Percentage time preprocessing: 7.89%
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Effective parallelization: 5.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.424301
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled   11 times, average 2.42 sec, max 2.70 sec, min 1.64 sec)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   11 times, average 2.33 sec, max 2.68 sec, min 1.70 sec)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   11 times, average 1.78 sec, max 1.90 sec, min 1.35 sec)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   14 times, average 1.61 sec, max 1.76 sec, min 1.38 sec)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   16 times, average 1.47 sec, max 1.58 sec, min 0.98 sec)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.71% of total time (compiled   42 times, average 1.22 sec, max 2.06 sec, min 0.81 sec)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.37% of total time (compiled   27 times, average 1.30 sec, max 1.70 sec, min 0.72 sec)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.83% of total time (compiled   57 times, average 0.58 sec, max 0.77 sec, min 0.34 sec)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.94% of total time (compiled   22 times, average 1.35 sec, max 1.81 sec, min 0.91 sec)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 7.13% of total time (compiled   11 times, average 2.42 sec, max 2.70 sec, min 1.64 sec)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: === Material stats ===
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Materials Translated:    375
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Material Translation Only: 0.08 s (38%)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: Material Cache Hits: 12 (3%)
+[2025.12.01-07.56.37:899][512]LogShaderCompilers: Display: ================================================
+[2025.12.01-07.56.46:122][356]Cmd: TRANSACTION UNDO
+[2025.12.01-07.56.46:122][356]LogEditorTransaction: Undo Move Elements
+[2025.12.01-07.57.26:588][410]LogAssetEditorSubsystem: Opening Asset editor for PDA_IngredientBase_C /Game/Ingredients/DA_Ingre_Onion.DA_Ingre_Onion
+[2025.12.01-07.57.49:165][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-07.57.49:236][252]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/DA_Ingre_Onion] ([1] browsable assets)...
+[2025.12.01-07.57.49:236][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/DA_Ingre_Onion]
+[2025.12.01-07.57.49:247][252]LogSavePackage: Moving output files for package: /Game/Ingredients/DA_Ingre_Onion
+[2025.12.01-07.57.49:248][252]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DA_Ingre_OnionCFB4B4C249BF718416423082FD97EBB5.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/DA_Ingre_Onion.uasset'
+[2025.12.01-07.57.49:258][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.857 ms (total: 4.27 sec)
+[2025.12.01-07.57.49:337][252]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-07.57.49:337][252]LogContentValidation: Enabled validators:
+[2025.12.01-07.57.49:337][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-07.57.49:337][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-07.57.49:337][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-07.57.49:337][252]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-07.57.49:337][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-07.57.49:337][252]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-07.57.49:337][252]AssetCheck: /Game/Ingredients/DA_Ingre_Onion Validating asset
+[2025.12.01-07.57.49:361][252]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: ================================================
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Total job queries 2,199, among them cache hits 936 (42.56%), DDC hits 590 (26.83%), Duplicates 238 (10.82%)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Tracking 1,025 distinct input hashes that result in 758 distinct outputs (73.95%)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: RAM used: 7.70 MiB of 3.20 GiB budget. Usage: 0.24%
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Shaders Compiled: 435
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Jobs assigned 435, completed 435 (100%)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Average time worker was idle: 244.18 s
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Time job spent in pending queue: average 0.88 s, longest 9.41 s
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Job execution time: average 3.52 s, max 10.61 s
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Job life time (pending + execution): average 4.40 s, max 10.91
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Shader code size: total 4.467 MiB, numShaders 457, average 10.01 KiB, min 2.105 KiB, max 21.723 KiB
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 80.13 s
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.81%
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Jobs were issued in 277 batches (only local compilation was used), average 1.57 jobs/batch
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Average processing rate: 5.43 jobs/sec
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Total thread time: 383.894 s
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Total thread preprocess time: 29.989 s
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Percentage time preprocessing: 7.81%
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Effective parallelization: 4.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.399240
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled   11 times, average 2.42 sec, max 2.70 sec, min 1.64 sec)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   11 times, average 2.33 sec, max 2.68 sec, min 1.70 sec)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   11 times, average 1.78 sec, max 1.90 sec, min 1.35 sec)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   14 times, average 1.61 sec, max 1.76 sec, min 1.38 sec)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   20 times, average 1.41 sec, max 1.58 sec, min 0.98 sec)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.78% of total time (compiled   44 times, average 1.20 sec, max 2.06 sec, min 0.80 sec)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.24% of total time (compiled   62 times, average 0.57 sec, max 0.77 sec, min 0.34 sec)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.11% of total time (compiled   27 times, average 1.30 sec, max 1.70 sec, min 0.72 sec)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.72% of total time (compiled   22 times, average 1.35 sec, max 1.81 sec, min 0.91 sec)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.34% of total time (compiled   20 times, average 1.41 sec, max 1.58 sec, min 0.98 sec)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: === Material stats ===
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Materials Translated:    375
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Material Translation Only: 0.08 s (38%)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: Material Cache Hits: 12 (3%)
+[2025.12.01-07.59.37:905][722]LogShaderCompilers: Display: ================================================
+[2025.12.01-07.59.43:255][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-07.59.43:320][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/DA_Ingre_Onion] ([1] browsable assets)...
+[2025.12.01-07.59.43:320][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/DA_Ingre_Onion]
+[2025.12.01-07.59.43:330][197]LogSavePackage: Moving output files for package: /Game/Ingredients/DA_Ingre_Onion
+[2025.12.01-07.59.43:333][197]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DA_Ingre_Onion3EDE3ACE440A62271559588DF6E38112.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/DA_Ingre_Onion.uasset'
+[2025.12.01-07.59.43:343][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.999 ms (total: 4.36 sec)
+[2025.12.01-07.59.43:399][197]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-07.59.43:399][197]LogContentValidation: Enabled validators:
+[2025.12.01-07.59.43:399][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-07.59.43:399][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-07.59.43:399][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-07.59.43:399][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-07.59.43:399][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-07.59.43:399][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-07.59.43:399][197]AssetCheck: /Game/Ingredients/DA_Ingre_Onion Validating asset
+[2025.12.01-08.00.21:100][695]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6892.467773
+[2025.12.01-08.00.21:217][706]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-08.00.21:217][707]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6892.573242, Update Interval: 327.697388
+[2025.12.01-08.00.24:999][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.00.25:048][ 65]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/DA_Ingre_Onion] ([1] browsable assets)...
+[2025.12.01-08.00.25:048][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/DA_Ingre_Onion]
+[2025.12.01-08.00.25:059][ 65]LogSavePackage: Moving output files for package: /Game/Ingredients/DA_Ingre_Onion
+[2025.12.01-08.00.25:061][ 65]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DA_Ingre_Onion31A1158547C9EFD1668DF0B0381C9796.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/DA_Ingre_Onion.uasset'
+[2025.12.01-08.00.25:071][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.670 ms (total: 4.43 sec)
+[2025.12.01-08.00.25:133][ 65]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.00.25:133][ 65]LogContentValidation: Enabled validators:
+[2025.12.01-08.00.25:133][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.00.25:133][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.00.25:133][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.00.25:133][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.00.25:133][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.00.25:133][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.00.25:133][ 65]AssetCheck: /Game/Ingredients/DA_Ingre_Onion Validating asset
+[2025.12.01-08.00.32:993][791]LogStreaming: Display: FlushAsyncLoading(675): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.00.33:009][791]LogStaticMesh: Display: Building static mesh Onions (Required Memory Estimate: 25.303536 MB)...
+[2025.12.01-08.00.33:066][796]LogStaticMesh: Adjacency [0.00s], tris: 16568, UVs 1
+[2025.12.01-08.00.33:095][798]LogStaticMesh: Clustering [0.03s]. Ratio: 1.023077
+[2025.12.01-08.00.33:097][798]LogStaticMesh: Leaves [0.00s]
+[2025.12.01-08.00.33:320][819]LogStaticMesh: Reduce [0.22s]
+[2025.12.01-08.00.33:531][836]LogStaticMesh: Fallback [0.21s], num tris: 11782
+[2025.12.01-08.00.33:624][845]LogStaticMesh: Fallback [0.09s], num tris: 7560
+[2025.12.01-08.00.33:628][846]LogStaticMesh: ConstrainClusters:
+[2025.12.01-08.00.33:628][846]LogStaticMesh:   Input: 271 Clusters, 33934 Triangles and 21394 Vertices
+[2025.12.01-08.00.33:628][846]LogStaticMesh:   Output without splits: 271 Clusters, 33934 Triangles and 27309 Vertices
+[2025.12.01-08.00.33:628][846]LogStaticMesh:   Output with splits: 271 Clusters, 33934 Triangles and 27309 Vertices
+[2025.12.01-08.00.33:628][846]LogStaticMesh: Material Stats - Unique Materials: 4, Fast Path Clusters: 238, Slow Path Clusters: 33, 1 Material: 0, 2 Materials: 131, 3 Materials: 107, At Least 4 Materials: 33
+[2025.12.01-08.00.33:631][846]LogStaticMesh: WritePages:
+[2025.12.01-08.00.33:631][846]LogStaticMesh:   Root: GPU size: 32096 bytes. 1 Pages. 32096.000 bytes per page (97.949% utilization).
+[2025.12.01-08.00.33:631][846]LogStaticMesh:   Streaming: GPU size: 242112 bytes. 2 Pages (2 with relative encoding). 121056.000 bytes per page (92.358% utilization).
+[2025.12.01-08.00.33:631][846]LogStaticMesh:   Page data disk size: 227688 bytes. Fixup data size: 1208 bytes.
+[2025.12.01-08.00.33:631][846]LogStaticMesh:   Total GPU size: 274208 bytes, Total disk size: 228896 bytes.
+[2025.12.01-08.00.33:631][846]LogStaticMesh: Encode [0.01s]
+[2025.12.01-08.00.33:631][846]LogStaticMesh: NaniteBuild [0.57s]
+[2025.12.01-08.00.33:968][879]LogStaticMesh: Built static mesh [0.96s] /Game/Ingredients/Meshes/StaticMeshes/Onions.Onions
+[2025.12.01-08.00.35:315][990]Cmd: TRANSACTION UNDO
+[2025.12.01-08.00.35:315][990]LogEditorTransaction: Undo Move Elements
+[2025.12.01-08.00.51:685][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.00.51:732][354]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/DA_Ingre_Onion] ([1] browsable assets)...
+[2025.12.01-08.00.51:732][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/DA_Ingre_Onion]
+[2025.12.01-08.00.51:736][354]LogSavePackage: Moving output files for package: /Game/Ingredients/DA_Ingre_Onion
+[2025.12.01-08.00.51:737][354]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DA_Ingre_OnionB378EAEE4D28FBB6DD011B9F268A59D9.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/DA_Ingre_Onion.uasset'
+[2025.12.01-08.00.51:747][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.615 ms (total: 4.49 sec)
+[2025.12.01-08.00.51:792][354]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.00.51:792][354]LogContentValidation: Enabled validators:
+[2025.12.01-08.00.51:792][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.00.51:792][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.00.51:792][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.00.51:792][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.00.51:792][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.00.51:792][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.00.51:792][354]AssetCheck: /Game/Ingredients/DA_Ingre_Onion Validating asset
+[2025.12.01-08.00.55:277][653]LogStreaming: Display: FlushAsyncLoading(676): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.00.55:280][653]LogStaticMesh: Display: Building static mesh Onion (Required Memory Estimate: 0.052124 MB)...
+[2025.12.01-08.00.55:280][653]LogStaticMesh: Adjacency [0.00s], tris: 28, UVs 1
+[2025.12.01-08.00.55:280][653]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.01-08.00.55:280][653]LogStaticMesh: Leaves [0.00s]
+[2025.12.01-08.00.55:280][653]LogStaticMesh: Reduce [0.00s]
+[2025.12.01-08.00.55:280][653]LogStaticMesh: Fallback [0.00s], num tris: 28
+[2025.12.01-08.00.55:280][653]LogStaticMesh: Fallback [0.00s], num tris: 28
+[2025.12.01-08.00.55:280][653]LogStaticMesh: ConstrainClusters:
+[2025.12.01-08.00.55:280][653]LogStaticMesh:   Input: 1 Clusters, 28 Triangles and 40 Vertices
+[2025.12.01-08.00.55:280][653]LogStaticMesh:   Output without splits: 1 Clusters, 28 Triangles and 40 Vertices
+[2025.12.01-08.00.55:280][653]LogStaticMesh:   Output with splits: 1 Clusters, 28 Triangles and 40 Vertices
+[2025.12.01-08.00.55:280][653]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.01-08.00.55:280][653]LogStaticMesh: WritePages:
+[2025.12.01-08.00.55:280][653]LogStaticMesh:   Root: GPU size: 636 bytes. 1 Pages. 636.000 bytes per page (1.941% utilization).
+[2025.12.01-08.00.55:280][653]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.01-08.00.55:280][653]LogStaticMesh:   Page data disk size: 784 bytes. Fixup data size: 24 bytes.
+[2025.12.01-08.00.55:280][653]LogStaticMesh:   Total GPU size: 636 bytes, Total disk size: 808 bytes.
+[2025.12.01-08.00.55:280][653]LogStaticMesh: Encode [0.00s]
+[2025.12.01-08.00.55:280][653]LogStaticMesh: NaniteBuild [0.00s]
+[2025.12.01-08.00.55:282][653]LogStaticMesh: Built static mesh [0.00s] /Game/Ingredients/Meshes/StaticMeshes/Onion.Onion
+[2025.12.01-08.01.01:125][175]Cmd: TRANSACTION UNDO
+[2025.12.01-08.01.01:125][175]LogEditorTransaction: Undo Move Elements
+[2025.12.01-08.01.01:794][195]Cmd: TRANSACTION UNDO
+[2025.12.01-08.01.01:794][195]LogEditorTransaction: Undo Move Elements
+[2025.12.01-08.01.27:663][ 77]LogContentBrowser: Attempting asset rename: Onions -> Onions
+[2025.12.01-08.01.38:865][ 24]LogContentBrowser: Attempting asset rename: Onions -> onion_tray
+[2025.12.01-08.01.38:969][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.01.38:969][ 24]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/onion_tray] ([1] browsable assets)...
+[2025.12.01-08.01.39:035][ 24]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Ingredients/Meshes/MergedMeshes/onion_tray.onion_tray]
+[2025.12.01-08.01.39:035][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/onion_tray]
+[2025.12.01-08.01.39:052][ 24]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/onion_tray
+[2025.12.01-08.01.39:052][ 24]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/onion_tray42D70A8F4F635C40807258888CBACB64.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/onion_tray.uasset'
+[2025.12.01-08.01.39:054][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.224 ms (total: 4.58 sec)
+[2025.12.01-08.01.39:119][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.12.01-08.01.39:145][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.01-08.01.39:167][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.01-08.01.39:247][ 24]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.01.39:247][ 24]LogContentValidation: Enabled validators:
+[2025.12.01-08.01.39:247][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.01.39:247][ 24]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.01.39:247][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.01.39:247][ 24]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.01.39:247][ 24]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.01.39:247][ 24]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.01.39:249][ 24]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/onion_tray Validating asset
+[2025.12.01-08.01.39:289][ 24]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-08.01.49:832][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.01.49:898][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/DA_Ingre_Onion] ([1] browsable assets)...
+[2025.12.01-08.01.49:898][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/DA_Ingre_Onion]
+[2025.12.01-08.01.49:907][906]LogSavePackage: Moving output files for package: /Game/Ingredients/DA_Ingre_Onion
+[2025.12.01-08.01.49:909][906]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DA_Ingre_Onion655885F9441E1634056B8FB6A19F58EF.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/DA_Ingre_Onion.uasset'
+[2025.12.01-08.01.49:920][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.866 ms (total: 4.67 sec)
+[2025.12.01-08.01.49:983][906]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.01.49:983][906]LogContentValidation: Enabled validators:
+[2025.12.01-08.01.49:983][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.01.49:983][906]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.01.49:983][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.01.49:983][906]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.01.49:983][906]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.01.49:983][906]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.01.49:983][906]AssetCheck: /Game/Ingredients/DA_Ingre_Onion Validating asset
+[2025.12.01-08.01.55:418][395]Cmd: TRANSACTION UNDO
+[2025.12.01-08.01.55:418][395]LogEditorTransaction: Undo Move Elements
+[2025.12.01-08.02.04:891][168]LogStreaming: Display: FlushAsyncLoading(677): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.02.04:945][168]LogStaticMesh: Display: Building static mesh SM_ColorCalibrator (Required Memory Estimate: 59.138803 MB)...
+[2025.12.01-08.02.05:148][184]LogStaticMesh: Built static mesh [0.21s] /Engine/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.SM_ColorCalibrator
+[2025.12.01-08.02.05:245][194]Cmd: DELETE
+[2025.12.01-08.02.05:245][194]Cmd: ACTOR DELETE
+[2025.12.01-08.02.05:249][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.01-08.02.05:278][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.01-08.02.05:283][194]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.12.01-08.02.13:938][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.12.01-08.02.14:908][678]LogSlate: Window 'Save Content' being destroyed
+[2025.12.01-08.02.14:938][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.02.15:064][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.12.01-08.02.15:096][678]LogSavePackage: Moving output files for package: /Game/Map_Tutorial
+[2025.12.01-08.02.15:098][678]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Map_TutorialE61199C6417E844E50FDBDA0BD4ABE5F.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Map_Tutorial.umap'
+[2025.12.01-08.02.15:128][678]LogFileHelpers: Saving map 'Map_Tutorial' took 0.136
+[2025.12.01-08.02.15:128][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/Container] ([1] browsable assets)...
+[2025.12.01-08.02.15:198][678]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/Container.Container]
+[2025.12.01-08.02.15:198][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/Container]
+[2025.12.01-08.02.15:211][678]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/Container
+[2025.12.01-08.02.15:211][678]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Container688B26D14671E1B4D17282AA98FEDED8.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/Container.uasset'
+[2025.12.01-08.02.15:214][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/DarkerOnionPeel] ([1] browsable assets)...
+[2025.12.01-08.02.15:222][678]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/DarkerOnionPeel.DarkerOnionPeel]
+[2025.12.01-08.02.15:222][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/DarkerOnionPeel]
+[2025.12.01-08.02.15:234][678]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/DarkerOnionPeel
+[2025.12.01-08.02.15:234][678]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DarkerOnionPeelA574672D4FEE9A3EE0688D8D91FA7AD9.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/DarkerOnionPeel.uasset'
+[2025.12.01-08.02.15:236][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/LighterOnionPeel] ([1] browsable assets)...
+[2025.12.01-08.02.15:244][678]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/LighterOnionPeel.LighterOnionPeel]
+[2025.12.01-08.02.15:244][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/LighterOnionPeel]
+[2025.12.01-08.02.15:255][678]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/LighterOnionPeel
+[2025.12.01-08.02.15:255][678]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/LighterOnionPeelDA983C384F4D56E639F44AB033FF830C.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/LighterOnionPeel.uasset'
+[2025.12.01-08.02.15:256][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/OnionBase] ([1] browsable assets)...
+[2025.12.01-08.02.15:258][678]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Ingredients/Meshes/MergedMeshes/OnionBase.OnionBase]
+[2025.12.01-08.02.15:258][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/OnionBase]
+[2025.12.01-08.02.15:271][678]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/OnionBase
+[2025.12.01-08.02.15:271][678]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/OnionBaseF0B1CFF247F2F5C5604D329D360A8DC8.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/OnionBase.uasset'
+[2025.12.01-08.02.15:274][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/OnionBase1] ([1] browsable assets)...
+[2025.12.01-08.02.15:281][678]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/OnionBase1.OnionBase1]
+[2025.12.01-08.02.15:281][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/OnionBase1]
+[2025.12.01-08.02.15:294][678]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/OnionBase1
+[2025.12.01-08.02.15:294][678]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/OnionBase1DD5A9C6D475DE3E6C327D59160F5BE72.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/OnionBase1.uasset'
+[2025.12.01-08.02.15:295][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/OnionFlesh] ([1] browsable assets)...
+[2025.12.01-08.02.15:304][678]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/OnionFlesh.OnionFlesh]
+[2025.12.01-08.02.15:304][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/OnionFlesh]
+[2025.12.01-08.02.15:314][678]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/OnionFlesh
+[2025.12.01-08.02.15:314][678]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/OnionFlesh66834CD648477FB34D68ABABECDCC157.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/OnionFlesh.uasset'
+[2025.12.01-08.02.15:315][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/OnionPeel] ([1] browsable assets)...
+[2025.12.01-08.02.15:324][678]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/OnionPeel.OnionPeel]
+[2025.12.01-08.02.15:324][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/OnionPeel]
+[2025.12.01-08.02.15:334][678]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/OnionPeel
+[2025.12.01-08.02.15:334][678]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/OnionPeel8F9E399948999E0A11117A83EC3AB95A.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/OnionPeel.uasset'
+[2025.12.01-08.02.15:345][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 407.448 ms (total: 5.08 sec)
+[2025.12.01-08.02.15:416][678]LogContentValidation: Display: Starting to validate 8 assets
+[2025.12.01-08.02.15:416][678]LogContentValidation: Enabled validators:
+[2025.12.01-08.02.15:416][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.02.15:416][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.02.15:416][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.02.15:416][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.02.15:416][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.02.15:416][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.02.15:416][678]AssetCheck: /Game/Map_Tutorial Validating asset
+[2025.12.01-08.02.15:416][678]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/Container Validating asset
+[2025.12.01-08.02.15:416][678]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/DarkerOnionPeel Validating asset
+[2025.12.01-08.02.15:416][678]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/LighterOnionPeel Validating asset
+[2025.12.01-08.02.15:416][678]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/OnionBase Validating asset
+[2025.12.01-08.02.15:416][678]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/OnionBase1 Validating asset
+[2025.12.01-08.02.15:416][678]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/OnionFlesh Validating asset
+[2025.12.01-08.02.15:416][678]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/OnionPeel Validating asset
+[2025.12.01-08.02.15:438][678]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-08.04.18:389][135]LogStreaming: Display: FlushAsyncLoading(678): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.04.18:445][135]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sarah/Downloads/CheeseCombined.fbx]
+[2025.12.01-08.04.36:683][135]LogSlate: Window 'Import Content' being destroyed
+[2025.12.01-08.04.36:704][135]LogInterchangeEngine: [Pending] Importing
+[2025.12.01-08.04.36:806][136]LogStreaming: Display: FlushAsyncLoading(679): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.04.36:856][137]LogStreaming: Display: FlushAsyncLoading(682): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.04.37:011][139]LogStreaming: Display: FlushAsyncLoading(683): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.04.37:156][141]LogStaticMesh: Display: Building static mesh CheeseCombined (Required Memory Estimate: 34.115848 MB)...
+[2025.12.01-08.04.37:244][142]LogStaticMesh: Adjacency [0.00s], tris: 21888, UVs 1, Color
+[2025.12.01-08.04.37:278][142]LogStaticMesh: Clustering [0.03s]. Ratio: 1.017544
+[2025.12.01-08.04.37:279][142]LogStaticMesh: Leaves [0.00s]
+[2025.12.01-08.04.37:505][151]LogStaticMesh: Reduce [0.23s]
+[2025.12.01-08.04.37:869][178]LogStaticMesh: Fallback [0.36s], num tris: 10442
+[2025.12.01-08.04.38:090][195]LogStaticMesh: Fallback [0.22s], num tris: 5212
+[2025.12.01-08.04.38:096][196]LogStaticMesh: ConstrainClusters:
+[2025.12.01-08.04.38:096][196]LogStaticMesh:   Input: 357 Clusters, 44934 Triangles and 47256 Vertices
+[2025.12.01-08.04.38:096][196]LogStaticMesh:   Output without splits: 357 Clusters, 44934 Triangles and 47355 Vertices
+[2025.12.01-08.04.38:096][196]LogStaticMesh:   Output with splits: 359 Clusters, 44934 Triangles and 47355 Vertices
+[2025.12.01-08.04.38:096][196]LogStaticMesh: Material Stats - Unique Materials: 4, Fast Path Clusters: 359, Slow Path Clusters: 0, 1 Material: 311, 2 Materials: 39, 3 Materials: 9, At Least 4 Materials: 0
+[2025.12.01-08.04.38:102][196]LogStaticMesh: WritePages:
+[2025.12.01-08.04.38:102][196]LogStaticMesh:   Root: GPU size: 31804 bytes. 1 Pages. 31804.000 bytes per page (97.058% utilization).
+[2025.12.01-08.04.38:102][196]LogStaticMesh:   Streaming: GPU size: 565892 bytes. 5 Pages (5 with relative encoding). 113178.398 bytes per page (86.348% utilization).
+[2025.12.01-08.04.38:102][196]LogStaticMesh:   Page data disk size: 519260 bytes. Fixup data size: 2160 bytes.
+[2025.12.01-08.04.38:102][196]LogStaticMesh:   Total GPU size: 597696 bytes, Total disk size: 521420 bytes.
+[2025.12.01-08.04.38:102][196]LogStaticMesh: Encode [0.01s]
+[2025.12.01-08.04.38:102][196]LogStaticMesh: NaniteBuild [0.86s]
+[2025.12.01-08.04.38:298][207]LogStaticMesh: Built static mesh [1.15s] /Game/Ingredients/Meshes/MergedMeshes/CheeseCombined.CheeseCombined
+[2025.12.01-08.04.38:822][219]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sarah/Downloads/CheeseCombined.fbx]
+[2025.12.01-08.04.38:822][219]Interchange: Warning: [C:/Users/sarah/Downloads/CheeseCombined.fbx : 'CheeseCombined', StaticMesh] No smoothing group information was found for this mesh 'Cube_060' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.12.01-08.04.38:865][219]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.01-08.04.38:865][219]LogInterchangeEngine: [Success] Import Done
+[2025.12.01-08.04.39:299][224]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/Material_003.Material_003 needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.04.39:306][224]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh.TomatoFlesh needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.04.39:312][224]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/Material_001.Material_001 needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.04.47:000][703]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Ingredients/Meshes/MergedMeshes/CheeseCombined.CheeseCombined
+[2025.12.01-08.04.47:000][703]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Ingredients/Meshes/MergedMeshes/CheeseCombined.CheeseCombined
+[2025.12.01-08.04.47:000][703]LogActorFactory: Actor Factory spawned StaticMesh /Game/Ingredients/Meshes/MergedMeshes/CheeseCombined.CheeseCombined as actor: StaticMeshActor /Game/Map_Tutorial.Map_Tutorial:PersistentLevel.StaticMeshActor_17
+[2025.12.01-08.04.47:803][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.01-08.04.47:806][754]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.12.01-08.04.47:839][754]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Ingredients/Meshes/MergedMeshes/CheeseCombined.CheeseCombined
+[2025.12.01-08.04.47:839][754]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Ingredients/Meshes/MergedMeshes/CheeseCombined.CheeseCombined
+[2025.12.01-08.04.47:839][754]LogActorFactory: Actor Factory spawned StaticMesh /Game/Ingredients/Meshes/MergedMeshes/CheeseCombined.CheeseCombined as actor: StaticMeshActor /Game/Map_Tutorial.Map_Tutorial:PersistentLevel.StaticMeshActor_19
+[2025.12.01-08.05.11:877][647]LogAssetEditorSubsystem: Opening Asset editor for PDA_IngredientBase_C /Game/Ingredients/DA_Ingre_Cheese.DA_Ingre_Cheese
+[2025.12.01-08.05.20:159][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.05.20:215][305]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/DA_Ingre_Cheese] ([1] browsable assets)...
+[2025.12.01-08.05.20:215][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/DA_Ingre_Cheese]
+[2025.12.01-08.05.20:224][305]LogSavePackage: Moving output files for package: /Game/Ingredients/DA_Ingre_Cheese
+[2025.12.01-08.05.20:226][305]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DA_Ingre_CheeseF83B7047483A2B3C9926B28D2F5D5F0D.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/DA_Ingre_Cheese.uasset'
+[2025.12.01-08.05.20:237][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.537 ms (total: 5.15 sec)
+[2025.12.01-08.05.20:281][305]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.05.20:281][305]LogContentValidation: Enabled validators:
+[2025.12.01-08.05.20:281][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.05.20:281][305]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.05.20:281][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.05.20:281][305]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.05.20:281][305]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.05.20:281][305]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.05.20:281][305]AssetCheck: /Game/Ingredients/DA_Ingre_Cheese Validating asset
+[2025.12.01-08.05.20:307][305]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-08.05.34:213][679]Cmd: TRANSACTION UNDO
+[2025.12.01-08.05.34:213][679]LogEditorTransaction: Undo Move Elements
+[2025.12.01-08.05.37:954][ 22]LogShaderCompilers: Display: ================================================
+[2025.12.01-08.05.37:954][ 22]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Total job queries 2,327, among them cache hits 1,018 (43.75%), DDC hits 597 (25.66%), Duplicates 245 (10.53%)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Tracking 1,064 distinct input hashes that result in 794 distinct outputs (74.62%)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: RAM used: 8.04 MiB of 3.20 GiB budget. Usage: 0.25%
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Shaders Compiled: 467
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Jobs assigned 467, completed 467 (100%)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Average time worker was idle: 239.52 s
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Time job spent in pending queue: average 0.82 s, longest 9.41 s
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Job execution time: average 3.41 s, max 10.61 s
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Job life time (pending + execution): average 4.23 s, max 10.91
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Shader code size: total 4.84 MiB, numShaders 489, average 10.135 KiB, min 2.105 KiB, max 21.723 KiB
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.46 s
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.75%
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Jobs were issued in 302 batches (only local compilation was used), average 1.55 jobs/batch
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Average processing rate: 5.34 jobs/sec
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Total thread time: 418.89 s
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Total thread preprocess time: 32.134 s
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Percentage time preprocessing: 7.67%
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Effective parallelization: 4.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.399109
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled   13 times, average 2.34 sec, max 2.70 sec, min 1.64 sec)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   13 times, average 2.25 sec, max 2.68 sec, min 1.70 sec)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   13 times, average 1.76 sec, max 1.90 sec, min 1.35 sec)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   14 times, average 1.61 sec, max 1.76 sec, min 1.38 sec)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   20 times, average 1.41 sec, max 1.58 sec, min 0.98 sec)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.90% of total time (compiled   52 times, average 1.20 sec, max 2.06 sec, min 0.80 sec)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.37% of total time (compiled   68 times, average 0.58 sec, max 0.77 sec, min 0.34 sec)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.19% of total time (compiled   30 times, average 1.28 sec, max 1.70 sec, min 0.72 sec)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.41% of total time (compiled   27 times, average 1.30 sec, max 1.81 sec, min 0.70 sec)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 7.25% of total time (compiled   13 times, average 2.34 sec, max 2.70 sec, min 1.64 sec)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: === Material stats ===
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Materials Translated:    389
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Material Translation Only: 0.08 s (38%)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: Material Cache Hits: 12 (3%)
+[2025.12.01-08.05.37:956][ 22]LogShaderCompilers: Display: ================================================
+[2025.12.01-08.05.56:624][485]LogSlate: Window 'Message' being destroyed
+[2025.12.01-08.05.56:649][485]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/PlaceholderMaterials/M_Sand.M_Sand
+(Selecting 'No' will cause all changes to be lost!)
+[2025.12.01-08.05.58:765][485]LogSlate: Window 'Message' being destroyed
+[2025.12.01-08.05.58:774][485]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/PlaceholderMaterials/M_Sand.M_Sand
+(Selecting 'No' will cause all changes to be lost!)
+[2025.12.01-08.06.03:610][955]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.01-08.06.03:625][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.01-08.06.03:655][955]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Tutorial
+[2025.12.01-08.06.03:661][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007223s)
+[2025.12.01-08.06.03:661][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Tutorial.Map_Tutorial to /Game/UEDPIE_0_Map_Tutorial.Map_Tutorial (0.007268s)
+[2025.12.01-08.06.03:702][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.12.01-08.06.03:706][955]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Tutorial
+[2025.12.01-08.06.03:708][955]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2025.12.01-08.06.03:708][955]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.12.01-08.06.03:708][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.01-08.06.03:708][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.01-08.06.03:708][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.01-08.06.03:708][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.01-08.06.03:708][955]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.01-08.06.03:708][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.01-08.06.03:708][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.01-08.06.03:708][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.01-08.06.03:708][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.01-08.06.03:708][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.01-08.06.03:708][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.01-08.06.03:711][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.01-08.06.03:740][955]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 LIGHTSPEED)
+[2025.12.01-08.06.03:740][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.01-08.06.03:740][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.01-08.06.03:740][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.01-08.06.03:741][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.12.01-08.06.03:741][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.12.01-08.06.03:743][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.12.01-08.06.03:743][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.12.01-08.06.03:743][955]LogInit: FAudioDevice initialized with ID 23.
+[2025.12.01-08.06.03:743][955]LogAudio: Display: Audio Device (ID: 23) registered with world 'Map_Tutorial'.
+[2025.12.01-08.06.03:743][955]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.12.01-08.06.03:746][955]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.01-08.06.03:750][955]LogWorld: Bringing World /Game/UEDPIE_0_Map_Tutorial.Map_Tutorial up for play (max tick rate 0) at 2025.12.01-00.06.03
+[2025.12.01-08.06.03:750][955]LogWorld: Bringing up level for play took: 0.003616
+[2025.12.01-08.06.03:752][955]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.12.01-08.06.03:757][955]PIE: Server logged in
+[2025.12.01-08.06.03:760][955]PIE: Play in editor total start time 0.135 seconds.
+[2025.12.01-08.06.03:832][956]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.01-08.06.26:812][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7258.172852
+[2025.12.01-08.06.26:934][378]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-08.06.26:935][378]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7258.285645, Update Interval: 312.991730
+[2025.12.01-08.07.15:451][516]LogDerivedDataCache: C:/Users/sarah/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.01-08.10.56:245][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.01-08.10.56:245][568]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map_Tutorial
+[2025.12.01-08.10.56:245][568]LogWorld: UWorld::CleanupWorld for Map_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-08.10.56:246][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-08.10.56:246][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.01-08.10.56:254][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-08.10.56:276][568]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.01-08.10.56:276][568]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.12.01-08.10.56:276][568]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.12.01-08.10.56:277][568]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.12.01-08.10.56:282][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.01-08.10.56:285][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.12.01-08.10.56:347][569]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.12.01-08.12.06:838][325]LogStreaming: Display: FlushAsyncLoading(684): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.12.06:854][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.12.06:854][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/beef_taco] ([1] browsable assets)...
+[2025.12.01-08.12.06:854][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/beef_taco]
+[2025.12.01-08.12.06:869][325]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/beef_taco
+[2025.12.01-08.12.06:871][325]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/beef_taco4ACEE6DE43ADE730FCBF3CBB7C77B34D.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/beef_taco.uasset'
+[2025.12.01-08.12.06:873][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/onion_tray] ([1] browsable assets)...
+[2025.12.01-08.12.06:873][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/onion_tray]
+[2025.12.01-08.12.06:889][325]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/onion_tray
+[2025.12.01-08.12.06:889][325]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/onion_tray88971CCE449804AF4BB3EEA45FBE0A6E.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/onion_tray.uasset'
+[2025.12.01-08.12.06:892][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/Materials/beef] ([1] browsable assets)...
+[2025.12.01-08.12.06:892][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/Materials/beef]
+[2025.12.01-08.12.06:901][325]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/Materials/beef
+[2025.12.01-08.12.06:901][325]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/beefDE99FEAC4519B640682CBEBD408D247F.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/Materials/beef.uasset'
+[2025.12.01-08.12.06:903][325]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/Materials/CheeseBase_Mat] ([1] browsable assets)...
+[2025.12.01-08.12.06:966][325]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/Materials/CheeseBase_Mat.CheeseBase_Mat]
+[2025.12.01-08.12.06:966][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/Materials/CheeseBase_Mat]
+[2025.12.01-08.12.06:978][325]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/Materials/CheeseBase_Mat
+[2025.12.01-08.12.06:978][325]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/CheeseBase_MatE80D1E0845A7C087C7D1169BF2534406.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/Materials/CheeseBase_Mat.uasset'
+[2025.12.01-08.12.06:980][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/Materials/plate_W] ([1] browsable assets)...
+[2025.12.01-08.12.06:980][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/Materials/plate_W]
+[2025.12.01-08.12.06:988][325]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/Materials/plate_W
+[2025.12.01-08.12.06:988][325]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/plate_WE37FD5AB4F774F6E58A5CBACCDBEF6EE.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/Materials/plate_W.uasset'
+[2025.12.01-08.12.06:991][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/Materials/taco_dish] ([1] browsable assets)...
+[2025.12.01-08.12.06:991][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/Materials/taco_dish]
+[2025.12.01-08.12.07:000][325]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/Materials/taco_dish
+[2025.12.01-08.12.07:000][325]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/taco_dishFC2CC8CF45307A7342581CBA40F23CB9.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/Materials/taco_dish.uasset'
+[2025.12.01-08.12.07:002][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/Materials/tortilla3] ([1] browsable assets)...
+[2025.12.01-08.12.07:002][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/Materials/tortilla3]
+[2025.12.01-08.12.07:010][325]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/Materials/tortilla3
+[2025.12.01-08.12.07:010][325]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/tortilla37AAABBF24F2E4F57E46BBFB1B2274EBC.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/Materials/tortilla3.uasset'
+[2025.12.01-08.12.07:012][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/tortilla3] ([1] browsable assets)...
+[2025.12.01-08.12.07:012][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/tortilla3]
+[2025.12.01-08.12.07:018][325]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/tortilla3
+[2025.12.01-08.12.07:019][325]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/tortilla39189A9F64D6B8585E32483B74FF5E581.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/tortilla3.uasset'
+[2025.12.01-08.12.07:021][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.286 ms (total: 5.32 sec)
+[2025.12.01-08.12.07:118][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.12.01-08.12.07:145][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.01-08.12.07:170][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.01-08.12.07:255][325]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.01-08.12.07:255][325]LogContentValidation: Display: Starting to validate 8 assets
+[2025.12.01-08.12.07:255][325]LogContentValidation: Enabled validators:
+[2025.12.01-08.12.07:255][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.12.07:255][325]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.12.07:255][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.12.07:255][325]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.12.07:255][325]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.12.07:255][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.12.07:255][325]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/beef_taco Validating asset
+[2025.12.01-08.12.07:255][325]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/onion_tray Validating asset
+[2025.12.01-08.12.07:255][325]AssetCheck: /Game/Ingredients/Meshes/Materials/beef Validating asset
+[2025.12.01-08.12.07:255][325]AssetCheck: /Game/Ingredients/Meshes/Materials/CheeseBase_Mat Validating asset
+[2025.12.01-08.12.07:257][325]AssetCheck: /Game/Ingredients/Meshes/Materials/plate_W Validating asset
+[2025.12.01-08.12.07:257][325]AssetCheck: /Game/Ingredients/Meshes/Materials/taco_dish Validating asset
+[2025.12.01-08.12.07:257][325]AssetCheck: /Game/Ingredients/Meshes/Materials/tortilla3 Validating asset
+[2025.12.01-08.12.07:257][325]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/tortilla3 Validating asset
+[2025.12.01-08.12.07:281][325]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-08.12.09:407][479]LogSlate: Window 'Failed Renames' being destroyed
+[2025.12.01-08.12.11:424][654]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7602.814453
+[2025.12.01-08.12.11:563][660]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-08.12.11:563][660]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7602.940918, Update Interval: 345.596497
+[2025.12.01-08.12.27:275][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.12.27:275][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/onion_tray] ([1] browsable assets)...
+[2025.12.01-08.12.27:275][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/onion_tray]
+[2025.12.01-08.12.27:292][574]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/onion_tray
+[2025.12.01-08.12.27:293][574]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/onion_tray62B393EF4AD783F509B25D94CE7C1C17.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/onion_tray.uasset'
+[2025.12.01-08.12.27:295][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 20.120 ms (total: 5.34 sec)
+[2025.12.01-08.12.27:370][574]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.01-08.12.27:370][574]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.12.27:370][574]LogContentValidation: Enabled validators:
+[2025.12.01-08.12.27:370][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.12.27:370][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.12.27:370][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.12.27:370][574]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.12.27:370][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.12.27:370][574]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.12.27:370][574]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/onion_tray Validating asset
+[2025.12.01-08.12.32:221][985]LogSlate: Window 'Failed Renames' being destroyed
+[2025.12.01-08.13.21:774][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.13.21:774][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/Materials/CheeseBase_Mat] ([1] browsable assets)...
+[2025.12.01-08.13.21:774][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/Materials/CheeseBase_Mat]
+[2025.12.01-08.13.21:784][570]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/Materials/CheeseBase_Mat
+[2025.12.01-08.13.21:784][570]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/CheeseBase_Mat3C1D77C44EF7B476596A289D058400A6.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/Materials/CheeseBase_Mat.uasset'
+[2025.12.01-08.13.21:786][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/OnionBase1] ([1] browsable assets)...
+[2025.12.01-08.13.21:786][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/OnionBase1]
+[2025.12.01-08.13.21:794][570]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/OnionBase1
+[2025.12.01-08.13.21:796][570]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/OnionBase14B93160847EBA15991D338ABFB55EF3A.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/OnionBase1.uasset'
+[2025.12.01-08.13.21:797][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.907 ms (total: 5.37 sec)
+[2025.12.01-08.13.21:889][570]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.01-08.13.21:889][570]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.01-08.13.21:889][570]LogContentValidation: Enabled validators:
+[2025.12.01-08.13.21:889][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.13.21:889][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.13.21:889][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.13.21:889][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.13.21:889][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.13.21:889][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.13.21:889][570]AssetCheck: /Game/Ingredients/Meshes/Materials/CheeseBase_Mat Validating asset
+[2025.12.01-08.13.21:889][570]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/OnionBase1 Validating asset
+[2025.12.01-08.13.23:287][672]LogSlate: Window 'Failed Renames' being destroyed
+[2025.12.01-08.13.47:615][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.01-08.14.04:884][394]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.01-08.14.25:787][999]LogStreaming: Display: FlushAsyncLoading(685): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.14.25:841][999]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sarah/Downloads/SalsaCombined.fbx]
+[2025.12.01-08.14.28:406][999]LogSlate: Window 'Import Content' being destroyed
+[2025.12.01-08.14.28:433][999]LogInterchangeEngine: [Pending] Importing
+[2025.12.01-08.14.28:553][  0]LogStreaming: Display: FlushAsyncLoading(686): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.14.28:674][  1]LogStreaming: Display: FlushAsyncLoading(693): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.14.28:760][  2]LogStreaming: Display: FlushAsyncLoading(694): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.14.28:930][  4]LogStaticMesh: Display: Building static mesh SalsaCombined (Required Memory Estimate: 11.971963 MB)...
+[2025.12.01-08.14.28:956][  4]LogStaticMesh: Adjacency [0.00s], tris: 7796, UVs 1
+[2025.12.01-08.14.28:964][  4]LogStaticMesh: Clustering [0.01s]. Ratio: 1.016393
+[2025.12.01-08.14.28:966][  4]LogStaticMesh: Leaves [0.00s]
+[2025.12.01-08.14.29:149][  8]LogStaticMesh: Reduce [0.18s]
+[2025.12.01-08.14.29:253][ 12]LogStaticMesh: Fallback [0.10s], num tris: 2245
+[2025.12.01-08.14.29:280][ 13]LogStaticMesh: Fallback [0.03s], num tris: 989
+[2025.12.01-08.14.29:283][ 13]LogStaticMesh: ConstrainClusters:
+[2025.12.01-08.14.29:283][ 13]LogStaticMesh:   Input: 125 Clusters, 15709 Triangles and 11763 Vertices
+[2025.12.01-08.14.29:283][ 13]LogStaticMesh:   Output without splits: 125 Clusters, 15709 Triangles and 12024 Vertices
+[2025.12.01-08.14.29:283][ 13]LogStaticMesh:   Output with splits: 125 Clusters, 15709 Triangles and 12024 Vertices
+[2025.12.01-08.14.29:283][ 13]LogStaticMesh: Material Stats - Unique Materials: 6, Fast Path Clusters: 125, Slow Path Clusters: 0, 1 Material: 85, 2 Materials: 30, 3 Materials: 10, At Least 4 Materials: 0
+[2025.12.01-08.14.29:287][ 13]LogStaticMesh: WritePages:
+[2025.12.01-08.14.29:287][ 13]LogStaticMesh:   Root: GPU size: 31876 bytes. 1 Pages. 31876.000 bytes per page (97.278% utilization).
+[2025.12.01-08.14.29:287][ 13]LogStaticMesh:   Streaming: GPU size: 134664 bytes. 2 Pages (2 with relative encoding). 67332.000 bytes per page (51.370% utilization).
+[2025.12.01-08.14.29:287][ 13]LogStaticMesh:   Page data disk size: 139764 bytes. Fixup data size: 608 bytes.
+[2025.12.01-08.14.29:287][ 13]LogStaticMesh:   Total GPU size: 166540 bytes, Total disk size: 140372 bytes.
+[2025.12.01-08.14.29:287][ 13]LogStaticMesh: Encode [0.01s]
+[2025.12.01-08.14.29:287][ 13]LogStaticMesh: NaniteBuild [0.33s]
+[2025.12.01-08.14.29:327][ 15]LogStaticMesh: Built static mesh [0.40s] /Game/Ingredients/Meshes/MergedMeshes/SalsaCombined.SalsaCombined
+[2025.12.01-08.14.29:781][ 19]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sarah/Downloads/SalsaCombined.fbx]
+[2025.12.01-08.14.29:781][ 19]Interchange: Warning: [C:/Users/sarah/Downloads/SalsaCombined.fbx : 'SalsaCombined', StaticMesh] No smoothing group information was found for this mesh 'Cube_006' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.12.01-08.14.29:846][ 19]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.01-08.14.29:846][ 19]LogInterchangeEngine: [Success] Import Done
+[2025.12.01-08.14.31:803][ 88]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/OnionBase_001.OnionBase_001 needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.14.31:807][ 88]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/SalsaCube1.SalsaCube1 needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.14.31:813][ 88]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/SalsaCube2.SalsaCube2 needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.14.31:821][ 88]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/SalsaCube3.SalsaCube3 needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.14.31:828][ 88]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/SalsaCube4.SalsaCube4 needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: ================================================
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Total job queries 2,470, among them cache hits 1,103 (44.66%), DDC hits 597 (24.17%), Duplicates 260 (10.53%)
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Tracking 1,107 distinct input hashes that result in 822 distinct outputs (74.25%)
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: RAM used: 8.36 MiB of 3.20 GiB budget. Usage: 0.26%
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Shaders Compiled: 497
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Jobs assigned 510, completed 497 (97.45%)
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Average time worker was idle: 244.67 s
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Time job spent in pending queue: average 0.85 s, longest 9.41 s
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Job execution time: average 3.41 s, max 10.61 s
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Job life time (pending + execution): average 4.24 s, max 10.91
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Shader code size: total 5.234 MiB, numShaders 519, average 10.327 KiB, min 2.105 KiB, max 21.723 KiB
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 94.56 s
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.69%
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Jobs were issued in 328 batches (only local compilation was used), average 1.55 jobs/batch
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Average processing rate: 5.26 jobs/sec
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Total thread time: 465.291 s
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Total thread preprocess time: 34.18 s
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Percentage time preprocessing: 7.35%
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Effective parallelization: 4.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.410049
+[2025.12.01-08.14.37:972][481]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled   16 times, average 2.42 sec, max 2.86 sec, min 1.64 sec)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   14 times, average 2.28 sec, max 2.69 sec, min 1.70 sec)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   18 times, average 1.80 sec, max 1.94 sec, min 1.35 sec)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   14 times, average 1.61 sec, max 1.76 sec, min 1.38 sec)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   20 times, average 1.41 sec, max 1.58 sec, min 0.98 sec)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.84% of total time (compiled   56 times, average 1.23 sec, max 2.06 sec, min 0.77 sec)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.63% of total time (compiled   34 times, average 1.32 sec, max 1.70 sec, min 0.72 sec)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.42% of total time (compiled   33 times, average 1.33 sec, max 1.81 sec, min 0.70 sec)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.53% of total time (compiled   69 times, average 0.57 sec, max 0.77 sec, min 0.34 sec)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 8.33% of total time (compiled   16 times, average 2.42 sec, max 2.86 sec, min 1.64 sec)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display: === Material stats ===
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display: Materials Translated:    402
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display: Material Translation Only: 0.08 s (37%)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display: Material Cache Hits: 12 (3%)
+[2025.12.01-08.14.37:973][481]LogShaderCompilers: Display: ================================================
+[2025.12.01-08.14.48:894][539]LogAssetEditorSubsystem: Opening Asset editor for PDA_IngredientBase_C /Game/Ingredients/DA_Ingre_Salsa.DA_Ingre_Salsa
+[2025.12.01-08.15.00:741][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.15.00:796][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/DA_Ingre_Salsa] ([1] browsable assets)...
+[2025.12.01-08.15.00:796][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/DA_Ingre_Salsa]
+[2025.12.01-08.15.00:805][768]LogSavePackage: Moving output files for package: /Game/Ingredients/DA_Ingre_Salsa
+[2025.12.01-08.15.00:807][768]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DA_Ingre_SalsaE597803C4FD7691D7C27F5966F5FFC97.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/DA_Ingre_Salsa.uasset'
+[2025.12.01-08.15.00:817][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.656 ms (total: 5.44 sec)
+[2025.12.01-08.15.00:878][768]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.15.00:878][768]LogContentValidation: Enabled validators:
+[2025.12.01-08.15.00:878][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.15.00:878][768]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.15.00:878][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.15.00:878][768]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.15.00:878][768]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.15.00:878][768]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.15.00:878][768]AssetCheck: /Game/Ingredients/DA_Ingre_Salsa Validating asset
+[2025.12.01-08.15.00:895][768]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-08.15.10:853][544]Cmd: TRANSACTION UNDO
+[2025.12.01-08.15.10:853][544]LogEditorTransaction: Undo Move Elements
+[2025.12.01-08.15.47:794][726]LogStreaming: Display: FlushAsyncLoading(695): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.15.47:841][726]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sarah/Downloads/TomatoCombined.fbx]
+[2025.12.01-08.15.49:707][726]LogSlate: Window 'Import Content' being destroyed
+[2025.12.01-08.15.49:734][726]LogInterchangeEngine: [Pending] Importing
+[2025.12.01-08.15.49:935][727]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.15.50:009][728]LogStreaming: Display: FlushAsyncLoading(703): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.15.50:195][730]LogStreaming: Display: FlushAsyncLoading(704): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.15.50:416][732]LogStaticMesh: Display: Building static mesh TomatoCombined (Required Memory Estimate: 25.939919 MB)...
+[2025.12.01-08.15.50:479][733]LogStaticMesh: Adjacency [0.00s], tris: 16916, UVs 1, Color
+[2025.12.01-08.15.50:496][733]LogStaticMesh: Clustering [0.02s]. Ratio: 1.007519
+[2025.12.01-08.15.50:497][733]LogStaticMesh: Leaves [0.00s]
+[2025.12.01-08.15.50:762][745]LogStaticMesh: Reduce [0.26s]
+[2025.12.01-08.15.50:946][754]LogStaticMesh: Fallback [0.18s], num tris: 4542
+[2025.12.01-08.15.51:042][756]LogStaticMesh: Fallback [0.10s], num tris: 3488
+[2025.12.01-08.15.51:047][756]LogStaticMesh: ConstrainClusters:
+[2025.12.01-08.15.51:047][756]LogStaticMesh:   Input: 276 Clusters, 34784 Triangles and 28021 Vertices
+[2025.12.01-08.15.51:047][756]LogStaticMesh:   Output without splits: 276 Clusters, 34784 Triangles and 30507 Vertices
+[2025.12.01-08.15.51:047][756]LogStaticMesh:   Output with splits: 276 Clusters, 34784 Triangles and 30507 Vertices
+[2025.12.01-08.15.51:048][756]LogStaticMesh: Material Stats - Unique Materials: 8, Fast Path Clusters: 254, Slow Path Clusters: 22, 1 Material: 29, 2 Materials: 211, 3 Materials: 14, At Least 4 Materials: 22
+[2025.12.01-08.15.51:053][756]LogStaticMesh: WritePages:
+[2025.12.01-08.15.51:053][756]LogStaticMesh:   Root: GPU size: 31296 bytes. 1 Pages. 31296.000 bytes per page (95.508% utilization).
+[2025.12.01-08.15.51:053][756]LogStaticMesh:   Streaming: GPU size: 377848 bytes. 3 Pages (3 with relative encoding). 125949.336 bytes per page (96.092% utilization).
+[2025.12.01-08.15.51:053][756]LogStaticMesh:   Page data disk size: 330160 bytes. Fixup data size: 1344 bytes.
+[2025.12.01-08.15.51:053][756]LogStaticMesh:   Total GPU size: 409144 bytes, Total disk size: 331504 bytes.
+[2025.12.01-08.15.51:053][756]LogStaticMesh: Encode [0.01s]
+[2025.12.01-08.15.51:053][756]LogStaticMesh: NaniteBuild [0.58s]
+[2025.12.01-08.15.51:194][766]LogStaticMesh: Built static mesh [0.78s] /Game/Ingredients/Meshes/MergedMeshes/TomatoCombined.TomatoCombined
+[2025.12.01-08.15.52:607][855]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sarah/Downloads/TomatoCombined.fbx]
+[2025.12.01-08.15.52:607][855]Interchange: Warning: [C:/Users/sarah/Downloads/TomatoCombined.fbx : 'TomatoCombined', StaticMesh] No smoothing group information was found for this mesh 'Cube_009' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.12.01-08.15.52:664][855]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.01-08.15.52:664][855]LogInterchangeEngine: [Success] Import Done
+[2025.12.01-08.15.52:882][858]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/Material_002.Material_002 needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.15.52:885][858]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_001.TomatoFlesh_001 needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.15.52:891][858]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_001.TomatoSkin_001 needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.15.52:902][858]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_002.TomatoFlesh_002 needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.15.52:909][858]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_002.TomatoSkin_002 needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.15.52:917][858]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/TomatoSkin.TomatoSkin needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.16.18:902][253]LogAssetEditorSubsystem: Opening Asset editor for PDA_IngredientBase_C /Game/Ingredients/DA_Ingre_Tomato.DA_Ingre_Tomato
+[2025.12.01-08.16.33:740][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.16.33:810][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/DA_Ingre_Tomato] ([1] browsable assets)...
+[2025.12.01-08.16.33:810][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/DA_Ingre_Tomato]
+[2025.12.01-08.16.33:818][501]LogSavePackage: Moving output files for package: /Game/Ingredients/DA_Ingre_Tomato
+[2025.12.01-08.16.33:821][501]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DA_Ingre_Tomato27CAC3A84A3FB6FA632667B5E13E3F7F.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/DA_Ingre_Tomato.uasset'
+[2025.12.01-08.16.33:832][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.378 ms (total: 5.53 sec)
+[2025.12.01-08.16.33:911][501]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.16.33:911][501]LogContentValidation: Enabled validators:
+[2025.12.01-08.16.33:911][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.16.33:911][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.16.33:911][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.16.33:911][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.16.33:911][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.16.33:911][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.16.33:911][501]AssetCheck: /Game/Ingredients/DA_Ingre_Tomato Validating asset
+[2025.12.01-08.16.33:936][501]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-08.16.41:678][217]Cmd: TRANSACTION UNDO
+[2025.12.01-08.16.41:678][217]LogEditorTransaction: Undo Move Elements
+[2025.12.01-08.17.06:835][170]LogStreaming: Display: FlushAsyncLoading(705): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.17.06:873][170]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sarah/Downloads/CilantroCombined.fbx]
+[2025.12.01-08.17.11:178][170]LogSlate: Window 'Import Content' being destroyed
+[2025.12.01-08.17.11:200][170]LogInterchangeEngine: [Pending] Importing
+[2025.12.01-08.17.11:325][171]LogStreaming: Display: FlushAsyncLoading(706): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.17.11:870][173]LogStreaming: Display: FlushAsyncLoading(708): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.17.12:130][176]LogStaticMesh: Display: Building static mesh CilantroCombined (Required Memory Estimate: 247.854932 MB)...
+[2025.12.01-08.17.12:567][212]LogStaticMesh: Adjacency [0.01s], tris: 161104, UVs 1
+[2025.12.01-08.17.12:896][239]LogStaticMesh: Clustering [0.33s]. Ratio: 1.017474
+[2025.12.01-08.17.12:913][240]LogStaticMesh: Leaves [0.02s]
+[2025.12.01-08.17.13:821][294]LogStaticMesh: Reduce [0.91s]
+[2025.12.01-08.17.14:590][348]LogStaticMesh: Fallback [0.77s], num tris: 30111
+[2025.12.01-08.17.14:999][366]LogStaticMesh: Fallback [0.41s], num tris: 12502
+[2025.12.01-08.17.15:021][367]LogStaticMesh: ConstrainClusters:
+[2025.12.01-08.17.15:021][367]LogStaticMesh:   Input: 2632 Clusters, 331220 Triangles and 230997 Vertices
+[2025.12.01-08.17.15:021][367]LogStaticMesh:   Output without splits: 2632 Clusters, 331220 Triangles and 234278 Vertices
+[2025.12.01-08.17.15:021][367]LogStaticMesh:   Output with splits: 2632 Clusters, 331220 Triangles and 234278 Vertices
+[2025.12.01-08.17.15:023][367]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 2632, Slow Path Clusters: 0, 1 Material: 2500, 2 Materials: 125, 3 Materials: 7, At Least 4 Materials: 0
+[2025.12.01-08.17.15:037][368]LogStaticMesh: WritePages:
+[2025.12.01-08.17.15:038][368]LogStaticMesh:   Root: GPU size: 32424 bytes. 1 Pages. 32424.000 bytes per page (98.950% utilization).
+[2025.12.01-08.17.15:038][368]LogStaticMesh:   Streaming: GPU size: 2519256 bytes. 20 Pages (20 with relative encoding). 125962.797 bytes per page (96.102% utilization).
+[2025.12.01-08.17.15:038][368]LogStaticMesh:   Page data disk size: 2317784 bytes. Fixup data size: 14456 bytes.
+[2025.12.01-08.17.15:038][368]LogStaticMesh:   Total GPU size: 2551680 bytes, Total disk size: 2332240 bytes.
+[2025.12.01-08.17.15:038][368]LogStaticMesh: Encode [0.04s]
+[2025.12.01-08.17.15:039][368]LogStaticMesh: NaniteBuild [2.49s]
+[2025.12.01-08.17.15:614][410]LogStaticMesh: Built static mesh [3.48s] /Game/Ingredients/Meshes/MergedMeshes/CilantroCombined.CilantroCombined
+[2025.12.01-08.17.16:083][448]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-5.137 Y=-8.554 Z=34.256, BoxExtent=(X=219.689 Y=295.714 Z=108.906), SphereRadius=(514.428162)) and MeshDescription Bounds (Origin=X=-5.137 Y=-8.554 Z=59.352, BoxExtent=(X=219.689 Y=295.714 Z=83.810), SphereRadius=(358.157762)) is significative for StaticMesh /Game/Ingredients/Meshes/MergedMeshes/CilantroCombined.CilantroCombined
+[2025.12.01-08.17.16:622][449]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sarah/Downloads/CilantroCombined.fbx]
+[2025.12.01-08.17.16:622][449]Interchange: Warning: [C:/Users/sarah/Downloads/CilantroCombined.fbx : 'CilantroCombined', StaticMesh] No smoothing group information was found for this mesh 'Cube_010' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.12.01-08.17.16:656][449]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.01-08.17.16:656][449]LogInterchangeEngine: [Success] Import Done
+[2025.12.01-08.17.17:042][454]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-5.137 Y=-8.554 Z=34.256, BoxExtent=(X=219.689 Y=295.714 Z=108.906), SphereRadius=(514.428162)) and MeshDescription Bounds (Origin=X=-5.137 Y=-8.554 Z=59.352, BoxExtent=(X=219.689 Y=295.714 Z=83.810), SphereRadius=(358.157762)) is significative for StaticMesh /Game/Ingredients/Meshes/MergedMeshes/CilantroCombined.CilantroCombined
+[2025.12.01-08.17.18:582][568]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/Material.Material needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.17.18:588][568]LogMaterial: Display: Material /Game/Ingredients/Meshes/MergedMeshes/CilantroLeaves.CilantroLeaves needed to have new flag set bUsedWithNanite !
+[2025.12.01-08.17.22:840][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.12.01-08.17.22:878][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map_Tutorial_Auto6
+[2025.12.01-08.17.22:878][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Map_Tutorial_Auto68C7A614F4682729559C8F4A011C84393.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Map_Tutorial_Auto6.umap'
+[2025.12.01-08.17.22:884][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map_Tutorial' took 0.107
+[2025.12.01-08.17.22:884][918]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.107
+[2025.12.01-08.17.22:884][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/Material_003] ([1] browsable assets)...
+[2025.12.01-08.17.22:892][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/Material_003.Material_003]
+[2025.12.01-08.17.22:892][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/Material_003]
+[2025.12.01-08.17.22:902][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/Material_003_Auto6
+[2025.12.01-08.17.22:902][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Material_003_Auto62A92702D44923B877F5448B92A861DE6.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/Material_003_Auto6.uasset'
+[2025.12.01-08.17.22:904][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh] ([1] browsable assets)...
+[2025.12.01-08.17.22:912][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh.TomatoFlesh]
+[2025.12.01-08.17.22:912][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh]
+[2025.12.01-08.17.22:923][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_Auto6
+[2025.12.01-08.17.22:923][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoFlesh_Auto68E4F8EB644A48AA71539909FBC643963.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_Auto6.uasset'
+[2025.12.01-08.17.22:924][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/CheeseBase] ([1] browsable assets)...
+[2025.12.01-08.17.22:926][918]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Ingredients/Meshes/MergedMeshes/CheeseBase.CheeseBase]
+[2025.12.01-08.17.22:926][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/CheeseBase]
+[2025.12.01-08.17.22:936][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/CheeseBase_Auto6
+[2025.12.01-08.17.22:936][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/CheeseBase_Auto6F83EB10E429366BA13C8A9BCF1CEC3BA.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/CheeseBase_Auto6.uasset'
+[2025.12.01-08.17.22:938][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/Material_001] ([1] browsable assets)...
+[2025.12.01-08.17.22:945][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/Material_001.Material_001]
+[2025.12.01-08.17.22:945][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/Material_001]
+[2025.12.01-08.17.22:957][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/Material_001_Auto6
+[2025.12.01-08.17.22:957][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Material_001_Auto67CC4503346D068C275BD7C995251A5FD.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/Material_001_Auto6.uasset'
+[2025.12.01-08.17.22:959][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/CheeseCombined] ([1] browsable assets)...
+[2025.12.01-08.17.22:969][918]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Ingredients/Meshes/MergedMeshes/CheeseCombined.CheeseCombined]
+[2025.12.01-08.17.22:969][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/CheeseCombined]
+[2025.12.01-08.17.22:988][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/CheeseCombined_Auto6
+[2025.12.01-08.17.22:988][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/CheeseCombined_Auto62F2EC9D542112ADE848CB38A78830D20.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/CheeseCombined_Auto6.uasset'
+[2025.12.01-08.17.22:990][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/OnionFlesh_001] ([1] browsable assets)...
+[2025.12.01-08.17.23:010][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/OnionFlesh_001.OnionFlesh_001]
+[2025.12.01-08.17.23:010][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/OnionFlesh_001]
+[2025.12.01-08.17.23:023][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/OnionFlesh_001_Auto6
+[2025.12.01-08.17.23:023][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/OnionFlesh_001_Auto65BEA90704AEA92494B9B1D8E6FFD6938.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/OnionFlesh_001_Auto6.uasset'
+[2025.12.01-08.17.23:024][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube1] ([1] browsable assets)...
+[2025.12.01-08.17.23:032][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/SalsaCube1.SalsaCube1]
+[2025.12.01-08.17.23:032][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube1]
+[2025.12.01-08.17.23:042][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaCube1_Auto6
+[2025.12.01-08.17.23:042][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaCube1_Auto607EE244944043CB5CB4ACEA500DF47BC.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaCube1_Auto6.uasset'
+[2025.12.01-08.17.23:043][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube2] ([1] browsable assets)...
+[2025.12.01-08.17.23:052][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/SalsaCube2.SalsaCube2]
+[2025.12.01-08.17.23:052][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube2]
+[2025.12.01-08.17.23:063][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaCube2_Auto6
+[2025.12.01-08.17.23:063][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaCube2_Auto6EC4C5F7945B3C19A75882AAB06490906.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaCube2_Auto6.uasset'
+[2025.12.01-08.17.23:064][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube2_001] ([1] browsable assets)...
+[2025.12.01-08.17.23:900][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/SalsaCube2_001.SalsaCube2_001]
+[2025.12.01-08.17.23:900][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube2_001]
+[2025.12.01-08.17.23:911][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaCube2_001_Auto6
+[2025.12.01-08.17.23:911][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaCube2_001_Auto62230312044A41A4A90430E87538AF205.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaCube2_001_Auto6.uasset'
+[2025.12.01-08.17.23:913][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube3] ([1] browsable assets)...
+[2025.12.01-08.17.23:920][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/SalsaCube3.SalsaCube3]
+[2025.12.01-08.17.23:920][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube3]
+[2025.12.01-08.17.23:932][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaCube3_Auto6
+[2025.12.01-08.17.23:932][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaCube3_Auto67E711974463DD8C8DC54DA90B87FBFAB.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaCube3_Auto6.uasset'
+[2025.12.01-08.17.23:933][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube4] ([1] browsable assets)...
+[2025.12.01-08.17.23:942][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/SalsaCube4.SalsaCube4]
+[2025.12.01-08.17.23:942][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube4]
+[2025.12.01-08.17.23:951][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaCube4_Auto6
+[2025.12.01-08.17.23:951][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaCube4_Auto67B75F98C498003AF886B15B42E65CE87.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaCube4_Auto6.uasset'
+[2025.12.01-08.17.23:953][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaBase] ([1] browsable assets)...
+[2025.12.01-08.17.23:954][918]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Ingredients/Meshes/MergedMeshes/SalsaBase.SalsaBase]
+[2025.12.01-08.17.23:954][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaBase]
+[2025.12.01-08.17.23:964][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaBase_Auto6
+[2025.12.01-08.17.23:964][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaBase_Auto6590168AE42A5D37BE4627CB29F2523E3.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaBase_Auto6.uasset'
+[2025.12.01-08.17.23:967][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/OnionBase_001] ([1] browsable assets)...
+[2025.12.01-08.17.23:976][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/OnionBase_001.OnionBase_001]
+[2025.12.01-08.17.23:976][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/OnionBase_001]
+[2025.12.01-08.17.23:985][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/OnionBase_001_Auto6
+[2025.12.01-08.17.23:985][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/OnionBase_001_Auto6E28561F94012FAED038F808B8CBE8F26.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/OnionBase_001_Auto6.uasset'
+[2025.12.01-08.17.23:988][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCombined] ([1] browsable assets)...
+[2025.12.01-08.17.23:996][918]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Ingredients/Meshes/MergedMeshes/SalsaCombined.SalsaCombined]
+[2025.12.01-08.17.23:996][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCombined]
+[2025.12.01-08.17.24:017][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaCombined_Auto6
+[2025.12.01-08.17.24:017][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaCombined_Auto63FFE35B948979680E10B67A45A85FA90.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/SalsaCombined_Auto6.uasset'
+[2025.12.01-08.17.24:020][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_001] ([1] browsable assets)...
+[2025.12.01-08.17.24:026][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_001.TomatoFlesh_001]
+[2025.12.01-08.17.24:026][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_001]
+[2025.12.01-08.17.24:036][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_001_Auto6
+[2025.12.01-08.17.24:036][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoFlesh_001_Auto681057A714DC3EAB1A5B100B3E4B622FD.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_001_Auto6.uasset'
+[2025.12.01-08.17.24:038][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_002] ([1] browsable assets)...
+[2025.12.01-08.17.24:045][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_002.TomatoFlesh_002]
+[2025.12.01-08.17.24:045][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_002]
+[2025.12.01-08.17.24:055][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_002_Auto6
+[2025.12.01-08.17.24:055][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoFlesh_002_Auto69351C0C34D1457EEB925259F9BF74D99.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_002_Auto6.uasset'
+[2025.12.01-08.17.24:058][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoInnerFlesh] ([1] browsable assets)...
+[2025.12.01-08.17.24:928][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/TomatoInnerFlesh.TomatoInnerFlesh]
+[2025.12.01-08.17.24:928][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoInnerFlesh]
+[2025.12.01-08.17.24:939][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoInnerFlesh_Auto6
+[2025.12.01-08.17.24:939][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoInnerFlesh_Auto6CA8FB2FA481A4763E1C55A839C8A584B.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoInnerFlesh_Auto6.uasset'
+[2025.12.01-08.17.24:942][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin] ([1] browsable assets)...
+[2025.12.01-08.17.24:948][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/TomatoSkin.TomatoSkin]
+[2025.12.01-08.17.24:948][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin]
+[2025.12.01-08.17.24:958][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_Auto6
+[2025.12.01-08.17.24:958][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoSkin_Auto65501B94640BD9A1E933178829DDC2AA9.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_Auto6.uasset'
+[2025.12.01-08.17.24:961][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_001] ([1] browsable assets)...
+[2025.12.01-08.17.24:968][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_001.TomatoSkin_001]
+[2025.12.01-08.17.24:968][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_001]
+[2025.12.01-08.17.24:979][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_001_Auto6
+[2025.12.01-08.17.24:979][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoSkin_001_Auto6C76F88F64B81E270504A3F89640CD7F3.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_001_Auto6.uasset'
+[2025.12.01-08.17.24:980][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_002] ([1] browsable assets)...
+[2025.12.01-08.17.24:988][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_002.TomatoSkin_002]
+[2025.12.01-08.17.24:988][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_002]
+[2025.12.01-08.17.24:997][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_002_Auto6
+[2025.12.01-08.17.24:997][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoSkin_002_Auto6D9D752664D467AC1A41D13BEFBE2905B.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_002_Auto6.uasset'
+[2025.12.01-08.17.25:000][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoBase] ([1] browsable assets)...
+[2025.12.01-08.17.25:002][918]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Ingredients/Meshes/MergedMeshes/TomatoBase.TomatoBase]
+[2025.12.01-08.17.25:002][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoBase]
+[2025.12.01-08.17.25:013][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoBase_Auto6
+[2025.12.01-08.17.25:013][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoBase_Auto6F0F69BB04AC2EE9584098291F1245E11.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoBase_Auto6.uasset'
+[2025.12.01-08.17.25:014][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/Material_002] ([1] browsable assets)...
+[2025.12.01-08.17.25:022][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/Material_002.Material_002]
+[2025.12.01-08.17.25:023][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/Material_002]
+[2025.12.01-08.17.25:034][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/Material_002_Auto6
+[2025.12.01-08.17.25:034][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Material_002_Auto632D079B144B9DD6BE246FCB1ECA1ED4B.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/Material_002_Auto6.uasset'
+[2025.12.01-08.17.25:036][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoCombined] ([1] browsable assets)...
+[2025.12.01-08.17.25:046][918]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Ingredients/Meshes/MergedMeshes/TomatoCombined.TomatoCombined]
+[2025.12.01-08.17.25:046][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoCombined]
+[2025.12.01-08.17.25:062][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoCombined_Auto6
+[2025.12.01-08.17.25:062][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoCombined_Auto66D737FB040D6283D3AAF3386C342351B.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/TomatoCombined_Auto6.uasset'
+[2025.12.01-08.17.25:064][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/CilantroLeaves] ([1] browsable assets)...
+[2025.12.01-08.17.25:072][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/CilantroLeaves.CilantroLeaves]
+[2025.12.01-08.17.25:072][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/CilantroLeaves]
+[2025.12.01-08.17.25:083][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/CilantroLeaves_Auto6
+[2025.12.01-08.17.25:083][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/CilantroLeaves_Auto60DD4B6494BE45EBF6B26D98B97BAB1BA.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/CilantroLeaves_Auto6.uasset'
+[2025.12.01-08.17.25:084][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/Material] ([1] browsable assets)...
+[2025.12.01-08.17.25:092][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Ingredients/Meshes/MergedMeshes/Material.Material]
+[2025.12.01-08.17.25:092][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/Material]
+[2025.12.01-08.17.25:102][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/Material_Auto6
+[2025.12.01-08.17.25:102][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Material_Auto66F79D62C4EA8892877D24E9FB9F4C2CB.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/Material_Auto6.uasset'
+[2025.12.01-08.17.25:104][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/CilantroCombined] ([1] browsable assets)...
+[2025.12.01-08.17.25:180][918]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Ingredients/Meshes/MergedMeshes/CilantroCombined.CilantroCombined]
+[2025.12.01-08.17.25:180][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/CilantroCombined]
+[2025.12.01-08.17.25:217][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ingredients/Meshes/MergedMeshes/CilantroCombined_Auto6
+[2025.12.01-08.17.25:217][918]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/CilantroCombined_Auto67691960049CB32FBA2CB8996C41B7BAD.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Autosaves/Game/Ingredients/Meshes/MergedMeshes/CilantroCombined_Auto6.uasset'
+[2025.12.01-08.17.25:218][918]LogFileHelpers: Auto-saving content packages took 2.335
+[2025.12.01-08.17.32:910][593]LogAssetEditorSubsystem: Opening Asset editor for PDA_IngredientBase_C /Game/Ingredients/DA_Ingre_Cilantro.DA_Ingre_Cilantro
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: ================================================
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Total job queries 2,686, among them cache hits 1,220 (45.42%), DDC hits 600 (22.34%), Duplicates 283 (10.54%)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Tracking 1,183 distinct input hashes that result in 906 distinct outputs (76.58%)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: RAM used: 9.32 MiB of 3.20 GiB budget. Usage: 0.28%
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Shaders Compiled: 583
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Jobs assigned 583, completed 583 (100%)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Average time worker was idle: 216.24 s
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Time job spent in pending queue: average 0.83 s, longest 9.41 s
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Job execution time: average 3.42 s, max 10.61 s
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Job life time (pending + execution): average 4.24 s, max 10.91
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Shader code size: total 6.365 MiB, numShaders 606, average 10.757 KiB, min 2.105 KiB, max 21.723 KiB
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 113.08 s
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.54%
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Jobs were issued in 377 batches (only local compilation was used), average 1.55 jobs/batch
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Average processing rate: 5.16 jobs/sec
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Total thread time: 599.129 s
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Total thread preprocess time: 38.561 s
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Percentage time preprocessing: 6.44%
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Effective parallelization: 5.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.441520
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   25 times, average 2.42 sec, max 2.86 sec, min 1.70 sec)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled   25 times, average 2.41 sec, max 2.87 sec, min 1.64 sec)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   25 times, average 1.86 sec, max 2.17 sec, min 1.35 sec)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   14 times, average 1.61 sec, max 1.76 sec, min 1.38 sec)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   20 times, average 1.41 sec, max 1.58 sec, min 0.98 sec)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.64% of total time (compiled   68 times, average 1.29 sec, max 2.06 sec, min 0.77 sec)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.97% of total time (compiled   53 times, average 1.35 sec, max 1.97 sec, min 0.59 sec)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 10.09% of total time (compiled   25 times, average 2.42 sec, max 2.86 sec, min 1.70 sec)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 10.05% of total time (compiled   25 times, average 2.41 sec, max 2.87 sec, min 1.64 sec)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.63% of total time (compiled   44 times, average 1.31 sec, max 1.73 sec, min 0.69 sec)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: === Material stats ===
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Materials Translated:    419
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Material Translation Only: 0.09 s (37%)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: Material Cache Hits: 12 (3%)
+[2025.12.01-08.17.37:971][984]LogShaderCompilers: Display: ================================================
+[2025.12.01-08.17.39:872][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.17.39:928][149]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/DA_Ingre_Cilantro] ([1] browsable assets)...
+[2025.12.01-08.17.39:928][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/DA_Ingre_Cilantro]
+[2025.12.01-08.17.39:937][149]LogSavePackage: Moving output files for package: /Game/Ingredients/DA_Ingre_Cilantro
+[2025.12.01-08.17.39:938][149]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DA_Ingre_Cilantro622FF3FE400963F62C7B7284ED9D2716.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/DA_Ingre_Cilantro.uasset'
+[2025.12.01-08.17.39:951][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.908 ms (total: 5.61 sec)
+[2025.12.01-08.17.40:027][149]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.17.40:027][149]LogContentValidation: Enabled validators:
+[2025.12.01-08.17.40:027][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.17.40:027][149]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.17.40:027][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.17.40:027][149]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.17.40:027][149]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.17.40:027][149]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.17.40:027][149]AssetCheck: /Game/Ingredients/DA_Ingre_Cilantro Validating asset
+[2025.12.01-08.17.40:052][149]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-08.17.45:236][628]LogPSOHitching: Encountered 100 PSO creation hitches so far (51 graphics, 49 compute). 0 of them were precached.
+[2025.12.01-08.17.46:318][730]Cmd: TRANSACTION UNDO
+[2025.12.01-08.17.46:318][730]LogEditorTransaction: Undo Move Elements
+[2025.12.01-08.17.51:661][154]LogAssetEditorSubsystem: Opening Asset editor for PDA_IngredientBase_C /Game/Ingredients/DA_Ingre_Onion.DA_Ingre_Onion
+[2025.12.01-08.18.03:729][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.18.03:792][ 93]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/DA_Ingre_Onion] ([1] browsable assets)...
+[2025.12.01-08.18.03:792][ 93]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/DA_Ingre_Onion]
+[2025.12.01-08.18.03:801][ 93]LogSavePackage: Moving output files for package: /Game/Ingredients/DA_Ingre_Onion
+[2025.12.01-08.18.03:802][ 93]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DA_Ingre_Onion8458F0214E2A2BC7043203A6808301C0.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/DA_Ingre_Onion.uasset'
+[2025.12.01-08.18.03:812][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.366 ms (total: 5.70 sec)
+[2025.12.01-08.18.03:876][ 93]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.18.03:876][ 93]LogContentValidation: Enabled validators:
+[2025.12.01-08.18.03:876][ 93]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.18.03:876][ 93]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.18.03:876][ 93]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.18.03:876][ 93]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.18.03:876][ 93]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.18.03:876][ 93]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.18.03:876][ 93]AssetCheck: /Game/Ingredients/DA_Ingre_Onion Validating asset
+[2025.12.01-08.18.10:142][666]Cmd: TRANSACTION UNDO
+[2025.12.01-08.18.10:142][666]LogEditorTransaction: Undo Move Elements
+[2025.12.01-08.18.41:689][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7993.068359
+[2025.12.01-08.18.41:824][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-08.18.41:824][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7993.189941, Update Interval: 309.404572
+[2025.12.01-08.18.52:052][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.12.01-08.18.55:426][982]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.01-08.18.58:582][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.12.01-08.19.03:956][166]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.01-08.19.23:606][764]LogStreaming: Display: FlushAsyncLoading(709): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.19.23:643][764]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sarah/Downloads/OnionsCombined.fbx]
+[2025.12.01-08.19.25:250][764]LogSlate: Window 'Import Content' being destroyed
+[2025.12.01-08.19.25:283][764]LogInterchangeEngine: [Pending] Importing
+[2025.12.01-08.19.29:523][765]LogSlate: Window 'Message' being destroyed
+[2025.12.01-08.19.29:529][765]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/Ingredients/Meshes/MergedMeshes/OnionBase.OnionBase'?
+[2025.12.01-08.19.31:042][766]LogSlate: Window 'Message' being destroyed
+[2025.12.01-08.19.31:050][766]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to override asset 'Material /Game/Ingredients/Meshes/MergedMeshes/OnionBase1.OnionBase1'?
+[2025.12.01-08.19.31:114][768]LogStreaming: Display: FlushAsyncLoading(710): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.19.31:194][770]LogStaticMesh: Display: Building static mesh OnionsCombined (Required Memory Estimate: 25.758286 MB)...
+[2025.12.01-08.19.31:239][773]LogStaticMesh: Adjacency [0.00s], tris: 16864, UVs 1
+[2025.12.01-08.19.31:269][775]LogStaticMesh: Clustering [0.03s]. Ratio: 1.015152
+[2025.12.01-08.19.31:270][775]LogStaticMesh: Leaves [0.00s]
+[2025.12.01-08.19.31:452][792]LogStaticMesh: Reduce [0.18s]
+[2025.12.01-08.19.31:728][816]LogStaticMesh: Fallback [0.27s], num tris: 9964
+[2025.12.01-08.19.31:866][828]LogStaticMesh: Fallback [0.14s], num tris: 6378
+[2025.12.01-08.19.31:873][828]LogStaticMesh: ConstrainClusters:
+[2025.12.01-08.19.31:873][828]LogStaticMesh:   Input: 280 Clusters, 35254 Triangles and 22400 Vertices
+[2025.12.01-08.19.31:873][828]LogStaticMesh:   Output without splits: 280 Clusters, 35254 Triangles and 27814 Vertices
+[2025.12.01-08.19.31:873][828]LogStaticMesh:   Output with splits: 280 Clusters, 35254 Triangles and 27814 Vertices
+[2025.12.01-08.19.31:873][828]LogStaticMesh: Material Stats - Unique Materials: 6, Fast Path Clusters: 243, Slow Path Clusters: 37, 1 Material: 8, 2 Materials: 124, 3 Materials: 111, At Least 4 Materials: 37
+[2025.12.01-08.19.31:877][828]LogStaticMesh: WritePages:
+[2025.12.01-08.19.31:877][828]LogStaticMesh:   Root: GPU size: 32104 bytes. 1 Pages. 32104.000 bytes per page (97.974% utilization).
+[2025.12.01-08.19.31:877][828]LogStaticMesh:   Streaming: GPU size: 261948 bytes. 3 Pages (3 with relative encoding). 87316.000 bytes per page (66.617% utilization).
+[2025.12.01-08.19.31:877][828]LogStaticMesh:   Page data disk size: 236920 bytes. Fixup data size: 1288 bytes.
+[2025.12.01-08.19.31:877][828]LogStaticMesh:   Total GPU size: 294052 bytes, Total disk size: 238208 bytes.
+[2025.12.01-08.19.31:877][828]LogStaticMesh: Encode [0.01s]
+[2025.12.01-08.19.31:877][828]LogStaticMesh: NaniteBuild [0.64s]
+[2025.12.01-08.19.32:142][852]LogStaticMesh: Built static mesh [0.95s] /Game/Ingredients/Meshes/MergedMeshes/OnionsCombined.OnionsCombined
+[2025.12.01-08.19.32:209][858]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-5.137 Y=-4.682 Z=66.709, BoxExtent=(X=219.689 Y=299.586 Z=77.979), SphereRadius=(468.221191)) and MeshDescription Bounds (Origin=X=-5.137 Y=-8.554 Z=65.962, BoxExtent=(X=219.689 Y=295.714 Z=77.200), SphereRadius=(356.786037)) is significative for StaticMesh /Game/Ingredients/Meshes/MergedMeshes/OnionsCombined.OnionsCombined
+[2025.12.01-08.19.32:593][859]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sarah/Downloads/OnionsCombined.fbx]
+[2025.12.01-08.19.32:593][859]Interchange: Warning: [C:/Users/sarah/Downloads/OnionsCombined.fbx : '', Unknown] Renamed Assets: 
+ OriginalName:[/Game/Ingredients/Meshes/MergedMeshes/OnionBase] NewName:[/Game/Ingredients/Meshes/MergedMeshes/OnionBase1]
+[2025.12.01-08.19.32:593][859]Interchange: Warning: [C:/Users/sarah/Downloads/OnionsCombined.fbx : 'OnionsCombined', StaticMesh] No smoothing group information was found for this mesh 'Cube_007' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.12.01-08.19.32:605][859]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.01-08.19.32:605][859]LogInterchangeEngine: [Success] Import Done
+[2025.12.01-08.19.32:607][860]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-5.137 Y=-4.682 Z=66.709, BoxExtent=(X=219.689 Y=299.586 Z=77.979), SphereRadius=(468.221191)) and MeshDescription Bounds (Origin=X=-5.137 Y=-8.554 Z=65.962, BoxExtent=(X=219.689 Y=295.714 Z=77.200), SphereRadius=(356.786037)) is significative for StaticMesh /Game/Ingredients/Meshes/MergedMeshes/OnionsCombined.OnionsCombined
+[2025.12.01-08.20.01:744][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.20.01:809][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/DA_Ingre_Onion] ([1] browsable assets)...
+[2025.12.01-08.20.01:809][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/DA_Ingre_Onion]
+[2025.12.01-08.20.01:818][587]LogSavePackage: Moving output files for package: /Game/Ingredients/DA_Ingre_Onion
+[2025.12.01-08.20.01:819][587]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DA_Ingre_OnionC1F06AC843773172E7F32E89A31B8B40.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/DA_Ingre_Onion.uasset'
+[2025.12.01-08.20.01:828][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.219 ms (total: 5.78 sec)
+[2025.12.01-08.20.01:909][587]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.20.01:909][587]LogContentValidation: Enabled validators:
+[2025.12.01-08.20.01:909][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.20.01:909][587]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.20.01:909][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.20.01:909][587]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.20.01:909][587]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.20.01:909][587]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.20.01:909][587]AssetCheck: /Game/Ingredients/DA_Ingre_Onion Validating asset
+[2025.12.01-08.20.06:258][ 28]LogStreaming: Display: FlushAsyncLoading(711): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.20.06:260][ 28]LogStaticMesh: Display: Building static mesh OnionContainer (Required Memory Estimate: 0.41812 MB)...
+[2025.12.01-08.20.06:262][ 28]LogStaticMesh: Adjacency [0.00s], tris: 268, UVs 1
+[2025.12.01-08.20.06:262][ 28]LogStaticMesh: Clustering [0.00s]. Ratio: 1.333333
+[2025.12.01-08.20.06:262][ 28]LogStaticMesh: Leaves [0.00s]
+[2025.12.01-08.20.06:268][ 28]LogStaticMesh: Reduce [0.01s]
+[2025.12.01-08.20.06:269][ 29]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh: ConstrainClusters:
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh:   Input: 7 Clusters, 646 Triangles and 432 Vertices
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh:   Output without splits: 7 Clusters, 646 Triangles and 448 Vertices
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh:   Output with splits: 7 Clusters, 646 Triangles and 448 Vertices
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh: WritePages:
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh:   Root: GPU size: 6900 bytes. 1 Pages. 6900.000 bytes per page (21.057% utilization).
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh:   Page data disk size: 5248 bytes. Fixup data size: 56 bytes.
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh:   Total GPU size: 6900 bytes, Total disk size: 5304 bytes.
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh: Encode [0.00s]
+[2025.12.01-08.20.06:271][ 29]LogStaticMesh: NaniteBuild [0.01s]
+[2025.12.01-08.20.06:283][ 30]LogStaticMesh: Built static mesh [0.02s] /Game/Ingredients/Meshes/StaticMeshes/OnionContainer.OnionContainer
+[2025.12.01-08.20.07:370][119]Cmd: TRANSACTION UNDO
+[2025.12.01-08.20.07:370][119]LogEditorTransaction: Undo Move Elements
+[2025.12.01-08.20.30:799][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.20.30:843][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/DA_Ingre_Onion] ([1] browsable assets)...
+[2025.12.01-08.20.30:843][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/DA_Ingre_Onion]
+[2025.12.01-08.20.30:853][ 88]LogSavePackage: Moving output files for package: /Game/Ingredients/DA_Ingre_Onion
+[2025.12.01-08.20.30:854][ 88]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/DA_Ingre_Onion8E37DB3644B69C599D361C9682A7C66A.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/DA_Ingre_Onion.uasset'
+[2025.12.01-08.20.30:864][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.729 ms (total: 5.85 sec)
+[2025.12.01-08.20.30:944][ 88]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.20.30:944][ 88]LogContentValidation: Enabled validators:
+[2025.12.01-08.20.30:944][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.20.30:944][ 88]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.20.30:944][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.20.30:944][ 88]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.20.30:944][ 88]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.20.30:944][ 88]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.20.30:944][ 88]AssetCheck: /Game/Ingredients/DA_Ingre_Onion Validating asset
+[2025.12.01-08.20.34:474][430]Cmd: TRANSACTION UNDO
+[2025.12.01-08.20.34:474][430]LogEditorTransaction: Undo Move Elements
+[2025.12.01-08.21.00:868][904]LogAssetEditorSubsystem: Opening Asset editor for PDA_IngredientBase_C /Game/Ingredients/DA_Ingre_Beef.DA_Ingre_Beef
+[2025.12.01-08.21.25:708][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.12.01-08.21.27:027][219]LogSlate: Window 'Save Content' being destroyed
+[2025.12.01-08.21.27:059][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.21.27:179][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.12.01-08.21.27:210][219]LogSavePackage: Moving output files for package: /Game/Map_Tutorial
+[2025.12.01-08.21.27:211][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Map_Tutorial2B6EC20343C61C627635CD920D8D80AC.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Map_Tutorial.umap'
+[2025.12.01-08.21.27:236][219]LogFileHelpers: Saving map 'Map_Tutorial' took 0.126
+[2025.12.01-08.21.27:237][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/CheeseBase] ([1] browsable assets)...
+[2025.12.01-08.21.27:237][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/CheeseBase]
+[2025.12.01-08.21.27:251][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/CheeseBase
+[2025.12.01-08.21.27:251][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/CheeseBaseD31A9F2A41134133660979BF0D72EE17.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/CheeseBase.uasset'
+[2025.12.01-08.21.27:252][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/CheeseCombined] ([1] browsable assets)...
+[2025.12.01-08.21.27:252][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/CheeseCombined]
+[2025.12.01-08.21.27:268][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/CheeseCombined
+[2025.12.01-08.21.27:270][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/CheeseCombined5A2440F24C66EB5A6D59B98940EBD89F.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/CheeseCombined.uasset'
+[2025.12.01-08.21.27:272][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/CilantroCombined] ([1] browsable assets)...
+[2025.12.01-08.21.27:272][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/CilantroCombined]
+[2025.12.01-08.21.27:310][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/CilantroCombined
+[2025.12.01-08.21.27:310][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/CilantroCombined28AE48D64B73AABA04697FA7516F68D7.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/CilantroCombined.uasset'
+[2025.12.01-08.21.27:312][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/CilantroLeaves] ([1] browsable assets)...
+[2025.12.01-08.21.27:312][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/CilantroLeaves]
+[2025.12.01-08.21.27:321][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/CilantroLeaves
+[2025.12.01-08.21.27:323][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/CilantroLeaves7192EED24EF45CC3AF8DE79413F66CED.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/CilantroLeaves.uasset'
+[2025.12.01-08.21.27:324][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/Material] ([1] browsable assets)...
+[2025.12.01-08.21.27:324][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/Material]
+[2025.12.01-08.21.27:332][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/Material
+[2025.12.01-08.21.27:332][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Material7E2F778A476BB8475FE7B0B466005604.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/Material.uasset'
+[2025.12.01-08.21.27:335][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/Material_001] ([1] browsable assets)...
+[2025.12.01-08.21.27:335][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/Material_001]
+[2025.12.01-08.21.27:344][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/Material_001
+[2025.12.01-08.21.27:344][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Material_0014B6000A94B2429A9EB5E06A8C2DAD89C.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/Material_001.uasset'
+[2025.12.01-08.21.27:347][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/Material_002] ([1] browsable assets)...
+[2025.12.01-08.21.27:347][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/Material_002]
+[2025.12.01-08.21.27:356][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/Material_002
+[2025.12.01-08.21.27:356][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Material_0026632A189498C99C41CE602B3286CD9EC.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/Material_002.uasset'
+[2025.12.01-08.21.27:358][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/Material_003] ([1] browsable assets)...
+[2025.12.01-08.21.27:358][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/Material_003]
+[2025.12.01-08.21.27:367][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/Material_003
+[2025.12.01-08.21.27:367][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Material_003D47B02A040D2C4A5698B658393121C71.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/Material_003.uasset'
+[2025.12.01-08.21.27:369][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/OnionBase_001] ([1] browsable assets)...
+[2025.12.01-08.21.27:369][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/OnionBase_001]
+[2025.12.01-08.21.27:378][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/OnionBase_001
+[2025.12.01-08.21.27:378][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/OnionBase_001F06256B14C6DA5987BFE46BC75B7005F.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/OnionBase_001.uasset'
+[2025.12.01-08.21.27:379][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/OnionFlesh_001] ([1] browsable assets)...
+[2025.12.01-08.21.27:379][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/OnionFlesh_001]
+[2025.12.01-08.21.27:388][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/OnionFlesh_001
+[2025.12.01-08.21.27:388][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/OnionFlesh_0012625C1694537F8ACA16DD1BFAE3FC8D9.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/OnionFlesh_001.uasset'
+[2025.12.01-08.21.27:391][219]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/OnionsCombined] ([1] browsable assets)...
+[2025.12.01-08.21.27:462][219]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Ingredients/Meshes/MergedMeshes/OnionsCombined.OnionsCombined]
+[2025.12.01-08.21.27:462][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/OnionsCombined]
+[2025.12.01-08.21.27:479][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/OnionsCombined
+[2025.12.01-08.21.27:479][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/OnionsCombined8AEA2B4A44D722683ED7978DD0001B9B.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/OnionsCombined.uasset'
+[2025.12.01-08.21.27:482][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaBase] ([1] browsable assets)...
+[2025.12.01-08.21.27:482][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaBase]
+[2025.12.01-08.21.27:498][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/SalsaBase
+[2025.12.01-08.21.27:499][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaBaseBC9712534F70A8FC9CF049A012C91C3C.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/SalsaBase.uasset'
+[2025.12.01-08.21.27:500][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCombined] ([1] browsable assets)...
+[2025.12.01-08.21.27:500][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCombined]
+[2025.12.01-08.21.27:516][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/SalsaCombined
+[2025.12.01-08.21.27:516][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaCombined5EA3D3E144B58C0928930D8AA7D26AD1.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/SalsaCombined.uasset'
+[2025.12.01-08.21.27:518][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube1] ([1] browsable assets)...
+[2025.12.01-08.21.27:518][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube1]
+[2025.12.01-08.21.27:527][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/SalsaCube1
+[2025.12.01-08.21.27:527][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaCube19CE41B2A425A1F141D2D75A13EFF7158.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/SalsaCube1.uasset'
+[2025.12.01-08.21.27:531][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube2] ([1] browsable assets)...
+[2025.12.01-08.21.27:531][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube2]
+[2025.12.01-08.21.27:539][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/SalsaCube2
+[2025.12.01-08.21.27:539][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaCube21A75810544DDF27EBFF32F94449A58BB.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/SalsaCube2.uasset'
+[2025.12.01-08.21.27:541][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube2_001] ([1] browsable assets)...
+[2025.12.01-08.21.27:541][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube2_001]
+[2025.12.01-08.21.27:548][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/SalsaCube2_001
+[2025.12.01-08.21.27:548][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaCube2_0014EF32C034A1966FBE015D29A53198709.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/SalsaCube2_001.uasset'
+[2025.12.01-08.21.27:552][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube3] ([1] browsable assets)...
+[2025.12.01-08.21.27:552][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube3]
+[2025.12.01-08.21.27:559][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/SalsaCube3
+[2025.12.01-08.21.27:559][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaCube3DA13982D428E735FA15BB1B099902F16.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/SalsaCube3.uasset'
+[2025.12.01-08.21.27:561][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube4] ([1] browsable assets)...
+[2025.12.01-08.21.27:562][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/SalsaCube4]
+[2025.12.01-08.21.27:570][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/SalsaCube4
+[2025.12.01-08.21.27:570][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SalsaCube4D8D668EF4AF11159A01B0E9A5B2FF967.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/SalsaCube4.uasset'
+[2025.12.01-08.21.27:572][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoBase] ([1] browsable assets)...
+[2025.12.01-08.21.27:572][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoBase]
+[2025.12.01-08.21.27:584][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/TomatoBase
+[2025.12.01-08.21.27:584][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoBaseB07C728E462810DDCE55958CA89EAF77.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/TomatoBase.uasset'
+[2025.12.01-08.21.27:587][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoCombined] ([1] browsable assets)...
+[2025.12.01-08.21.27:587][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoCombined]
+[2025.12.01-08.21.27:602][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/TomatoCombined
+[2025.12.01-08.21.27:602][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoCombined234A8BA949B48EA6E83689BE006A54EF.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/TomatoCombined.uasset'
+[2025.12.01-08.21.27:604][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh] ([1] browsable assets)...
+[2025.12.01-08.21.27:604][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh]
+[2025.12.01-08.21.27:612][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh
+[2025.12.01-08.21.27:612][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoFleshC4406F65439319BB8A60D496F30963DE.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/TomatoFlesh.uasset'
+[2025.12.01-08.21.27:615][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_001] ([1] browsable assets)...
+[2025.12.01-08.21.27:615][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_001]
+[2025.12.01-08.21.27:624][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_001
+[2025.12.01-08.21.27:624][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoFlesh_0018BE8F8414F2FCBCF55206E88C65AD3B3.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/TomatoFlesh_001.uasset'
+[2025.12.01-08.21.27:625][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_002] ([1] browsable assets)...
+[2025.12.01-08.21.27:625][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_002]
+[2025.12.01-08.21.27:636][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_002
+[2025.12.01-08.21.27:636][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoFlesh_0028A6FD7D84C8613DBDDB183A3C9A8141B.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/TomatoFlesh_002.uasset'
+[2025.12.01-08.21.27:638][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoInnerFlesh] ([1] browsable assets)...
+[2025.12.01-08.21.27:638][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoInnerFlesh]
+[2025.12.01-08.21.27:645][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/TomatoInnerFlesh
+[2025.12.01-08.21.27:645][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoInnerFleshEB762B944485513835628389E5BD0B06.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/TomatoInnerFlesh.uasset'
+[2025.12.01-08.21.27:648][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin] ([1] browsable assets)...
+[2025.12.01-08.21.27:648][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin]
+[2025.12.01-08.21.27:656][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/TomatoSkin
+[2025.12.01-08.21.27:656][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoSkinC66123E14F55BE5817371285EA199AD8.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/TomatoSkin.uasset'
+[2025.12.01-08.21.27:659][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_001] ([1] browsable assets)...
+[2025.12.01-08.21.27:659][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_001]
+[2025.12.01-08.21.27:667][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_001
+[2025.12.01-08.21.27:667][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoSkin_00102B878CD408547B5E0F64EA1384E132F.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/TomatoSkin_001.uasset'
+[2025.12.01-08.21.27:669][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_002] ([1] browsable assets)...
+[2025.12.01-08.21.27:669][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_002]
+[2025.12.01-08.21.27:677][219]LogSavePackage: Moving output files for package: /Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_002
+[2025.12.01-08.21.27:677][219]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/TomatoSkin_00290473A2A43C963267590619F695B93A4.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Ingredients/Meshes/MergedMeshes/TomatoSkin_002.uasset'
+[2025.12.01-08.21.27:689][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 629.825 ms (total: 6.48 sec)
+[2025.12.01-08.21.27:759][219]LogContentValidation: Display: Starting to validate 28 assets
+[2025.12.01-08.21.27:759][219]LogContentValidation: Enabled validators:
+[2025.12.01-08.21.27:759][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.21.27:759][219]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.21.27:759][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.21.27:759][219]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.21.27:759][219]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.21.27:759][219]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Map_Tutorial Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/CheeseBase Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/CheeseCombined Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/CilantroCombined Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/CilantroLeaves Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/Material Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/Material_001 Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/Material_002 Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/Material_003 Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/OnionBase_001 Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/OnionFlesh_001 Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/OnionsCombined Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/SalsaBase Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/SalsaCombined Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/SalsaCube1 Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/SalsaCube2 Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/SalsaCube2_001 Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/SalsaCube3 Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/SalsaCube4 Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/TomatoBase Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/TomatoCombined Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh Validating asset
+[2025.12.01-08.21.27:759][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_001 Validating asset
+[2025.12.01-08.21.27:760][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/TomatoFlesh_002 Validating asset
+[2025.12.01-08.21.27:760][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/TomatoInnerFlesh Validating asset
+[2025.12.01-08.21.27:760][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/TomatoSkin Validating asset
+[2025.12.01-08.21.27:760][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_001 Validating asset
+[2025.12.01-08.21.27:760][219]AssetCheck: /Game/Ingredients/Meshes/MergedMeshes/TomatoSkin_002 Validating asset
+[2025.12.01-08.21.27:784][219]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-08.21.56:671][ 75]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.01-08.21.56:684][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.01-08.21.56:713][ 75]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Tutorial
+[2025.12.01-08.21.56:720][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006867s)
+[2025.12.01-08.21.56:720][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Tutorial.Map_Tutorial to /Game/UEDPIE_0_Map_Tutorial.Map_Tutorial (0.006913s)
+[2025.12.01-08.21.56:746][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.01-08.21.56:747][ 75]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Tutorial
+[2025.12.01-08.21.56:749][ 75]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2025.12.01-08.21.56:750][ 75]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.12.01-08.21.56:750][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.01-08.21.56:750][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.01-08.21.56:750][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.01-08.21.56:750][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.01-08.21.56:750][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.01-08.21.56:750][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.01-08.21.56:750][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.01-08.21.56:750][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.01-08.21.56:750][ 75]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.01-08.21.56:750][ 75]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.01-08.21.56:750][ 75]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.01-08.21.56:752][ 75]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.01-08.21.56:780][ 75]LogAudioMixer: Display: Using Audio Hardware Device Headphones (G321 LIGHTSPEED)
+[2025.12.01-08.21.56:780][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.01-08.21.56:780][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.01-08.21.56:780][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.01-08.21.56:780][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.12.01-08.21.56:780][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.12.01-08.21.56:783][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.12.01-08.21.56:783][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.12.01-08.21.56:783][ 75]LogInit: FAudioDevice initialized with ID 24.
+[2025.12.01-08.21.56:783][ 75]LogAudio: Display: Audio Device (ID: 24) registered with world 'Map_Tutorial'.
+[2025.12.01-08.21.56:783][ 75]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.12.01-08.21.56:787][ 75]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.01-08.21.56:790][ 75]LogWorld: Bringing World /Game/UEDPIE_0_Map_Tutorial.Map_Tutorial up for play (max tick rate 0) at 2025.12.01-00.21.56
+[2025.12.01-08.21.56:790][ 75]LogWorld: Bringing up level for play took: 0.003237
+[2025.12.01-08.21.56:793][ 75]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.12.01-08.21.56:797][ 75]PIE: Server logged in
+[2025.12.01-08.21.56:801][ 75]PIE: Play in editor total start time 0.115 seconds.
+[2025.12.01-08.21.56:804][ 75]LogStreaming: Display: FlushAsyncLoading(712): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-08.21.56:867][ 76]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.01-08.22.42:114][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.01-08.22.42:114][519]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map_Tutorial
+[2025.12.01-08.22.42:114][519]LogWorld: UWorld::CleanupWorld for Map_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-08.22.42:114][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-08.22.42:115][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.01-08.22.42:123][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-08.22.42:145][519]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.01-08.22.42:145][519]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.12.01-08.22.42:145][519]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.12.01-08.22.42:147][519]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.12.01-08.22.42:151][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.01-08.22.42:155][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.12.01-08.22.42:216][520]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.12.01-08.22.51:440][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Ingredients/Meshes/MergedMeshes/TomatoCombined.TomatoCombined
+[2025.12.01-08.22.51:441][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Ingredients/Meshes/MergedMeshes/TomatoCombined.TomatoCombined
+[2025.12.01-08.22.51:441][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Game/Ingredients/Meshes/MergedMeshes/TomatoCombined.TomatoCombined as actor: StaticMeshActor /Game/Map_Tutorial.Map_Tutorial:PersistentLevel.StaticMeshActor_27
+[2025.12.01-08.22.52:685][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.01-08.22.52:691][120]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.12.01-08.22.52:696][120]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Ingredients/Meshes/MergedMeshes/TomatoCombined.TomatoCombined
+[2025.12.01-08.22.52:696][120]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Ingredients/Meshes/MergedMeshes/TomatoCombined.TomatoCombined
+[2025.12.01-08.22.52:698][120]LogActorFactory: Actor Factory spawned StaticMesh /Game/Ingredients/Meshes/MergedMeshes/TomatoCombined.TomatoCombined as actor: StaticMeshActor /Game/Map_Tutorial.Map_Tutorial:PersistentLevel.StaticMeshActor_29
+[2025.12.01-08.23.00:914][731]Cmd: DELETE
+[2025.12.01-08.23.00:914][731]Cmd: ACTOR DELETE
+[2025.12.01-08.23.00:917][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.01-08.23.00:941][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.01-08.23.00:945][731]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.12.01-08.23.46:608][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.01-08.23.48:757][738]LogSlate: Window 'Save Content' being destroyed
+[2025.12.01-08.23.48:786][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.23.48:914][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.01-08.23.48:944][738]LogSavePackage: Moving output files for package: /Game/Map_Tutorial
+[2025.12.01-08.23.48:947][738]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Map_Tutorial03355D154B255E2111684A872B213AD8.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Map_Tutorial.umap'
+[2025.12.01-08.23.48:973][738]LogFileHelpers: Saving map 'Map_Tutorial' took 0.130
+[2025.12.01-08.23.48:981][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.472 ms (total: 6.67 sec)
+[2025.12.01-08.23.49:043][738]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.23.49:043][738]LogContentValidation: Enabled validators:
+[2025.12.01-08.23.49:043][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.23.49:043][738]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.23.49:043][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.23.49:043][738]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.23.49:043][738]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.23.49:043][738]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.23.49:043][738]AssetCheck: /Game/Map_Tutorial Validating asset
+[2025.12.01-08.23.52:313][993]Cmd: DELETE
+[2025.12.01-08.23.52:315][993]Cmd: ACTOR DELETE
+[2025.12.01-08.23.52:316][993]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.01-08.23.52:343][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.01-08.23.52:349][993]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.12.01-08.23.58:889][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.01-08.24.00:188][647]LogSlate: Window 'Save Content' being destroyed
+[2025.12.01-08.24.00:216][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-08.24.00:346][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.01-08.24.00:376][647]LogSavePackage: Moving output files for package: /Game/Map_Tutorial
+[2025.12.01-08.24.00:376][647]LogSavePackage: Moving '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Saved/Map_Tutorial1BD81C3A4BCDE2D4040D5FA7AC065F5C.tmp' to '../../../../../../Users/sarah/OneDrive/Documents/GitHub/Tacos-United-Today/BeachTacos/Content/Map_Tutorial.umap'
+[2025.12.01-08.24.00:403][647]LogFileHelpers: Saving map 'Map_Tutorial' took 0.127
+[2025.12.01-08.24.00:412][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.749 ms (total: 6.87 sec)
+[2025.12.01-08.24.00:476][647]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-08.24.00:476][647]LogContentValidation: Enabled validators:
+[2025.12.01-08.24.00:476][647]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-08.24.00:476][647]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-08.24.00:476][647]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-08.24.00:476][647]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-08.24.00:476][647]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-08.24.00:476][647]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-08.24.00:476][647]AssetCheck: /Game/Map_Tutorial Validating asset
+[2025.12.01-08.24.23:257][288]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8334.679688
+[2025.12.01-08.24.24:257][291]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-08.24.24:257][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8335.345703, Update Interval: 307.439789
